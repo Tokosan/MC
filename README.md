@@ -1,3 +1,5 @@
+![Logo](https://data1.ibtimes.co.in/en/full/433631/minecraft.jpg)
+
 # Introduccion
 
 Este documento sera la biblia para poder hostear mi servidor de Minecraft. Sera una guia de instalacion y configuracion y automatizacion de todo lo que necesite.
@@ -5,7 +7,9 @@ Este documento sera la biblia para poder hostear mi servidor de Minecraft. Sera 
 ## Metadata
 
 Version de Minecraft: 1.20.1
+
 Modloader: Forge 47.3.0
+
 Mods: ~100
 
 ## Objetivos
