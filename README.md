@@ -12,26 +12,9 @@ Modloader: Forge 47.3.0
 
 Mods: ~100
 
-## Objetivos
+# Tutorial
 
-El objetivo de hostear los archivos en anakena es tener una especie de "backup" o repositorio desde el cual poder obtener todos los mods necesarios en caso de querer volver a abrir el servidor en otra maquina.
-
-Como objetivos tengo:
-
-1. Tener instrucciones de como iniciar el servidor desde cero, y como descargar los mods desde aca
-2. Tener un listado de los mods utilizados y sus descripciones
-
-## Tutoriales
-
-Para iniciar tuve que ver algunos tutoriales, de los que destaco y no quiero perder:
-
-1. [Como usar Iris con Forge](https://www.youtube.com/watch?v=NPNzp4N05xg)
-2. [Versiones de Oculus + Rubidium](https://www.youtube.com/watch?v=dOckgD2W8_0)
-3. [Versiones de Create + Rubidium](https://www.reddit.com/r/CreateMod/comments/16r1cow/can_not_start_game_with_create_and_rubidium/)
-
-# Instalacion
-
-## Cliente
+## Instalación
 
 A continuación se detalla el paso a paso para instalar un cliente que pueda conectarse al servidor
 
@@ -53,47 +36,16 @@ A continuación se detalla el paso a paso para instalar un cliente que pueda con
 6. Instalar Forge
    1. Descargar y ejecutar el instalador desde la [página oficial](https://files.minecraftforge.net/net/minecraftforge/forge/). Debe ser la versión 47.3.0. También se puede usar el [link directo](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-installer.jar)
    2. Presionar "Ok"
-7. Instalar los mods
-   1. Usar el script de Python aaaaa que lindo que será!!!
+7. Descargar los mods
+   1. Ir a la parte superior de esta página y apretar el botón verde "Code"
+   2. Apretar "Descargar ZIP"
+   3. Descomprimir el zip descargado
+   4. Copiar los mods en la carpeta `.minecraft/mods` (crearla si es que no está). Para acceder a esta carpeta hay que apretar WIN + R (mantener la tecla de Windows y apretar la R), y escribir `%appdata%` y apretar enter.
 
-## Server
+Para iniciar el cliente hay que revisar que esté seleccionada la versión Forge 1.20.1 (no la instalación Vanilla que crearon)
 
-Para instalar el servidor usare Docker Compose. En el directorio `docker` estaran los archivos necesarios para descargar y ejecutar `docker compose up -d`. A la fecha no tengo conocimientos de como respaldar el servidor y el mundo.
+## Conexión
 
-# Mods
+La IP del servidor es
 
-## Para conversar
-
-Los mods polemicos que hay que analizar son:
-
-1. [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)
-2. [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
-3. [Rotten Flesh to Leather](https://www.curseforge.com/minecraft/mc-mods/rotten-flesh-to-leather-1-20-1)
-4. [Ars Nooveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
-5. [Security Craft](https://www.curseforge.com/minecraft/mc-mods/security-craft)
-
-### Combat
-
-1. [Better Combat](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus)
-2. Addons de Better Combat: [Paladins & Priests](https://www.curseforge.com/minecraft/mc-mods/paladins-and-priests), [Wizards](https://www.curseforge.com/minecraft/mc-mods/wizards), etc.
-3. [Simply Swords](https://www.curseforge.com/minecraft/mc-mods/simply-swords)
-4. [Spartan Weaponry](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry)
-5. [Spartan Shields](https://www.curseforge.com/minecraft/mc-mods/spartan-shields)
-
-## Para probar pronto
-
-Los mods que tengo que probar (para ver si funcionan) son:
-
-1. [Towers of the Wild Modded](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild-modded) -> Probar si es que es necesario tener instalado [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones), lo ideal sería tener únicamente TotW.
-2. [Sound Physics](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) -> Probar sonido de salto
-3. [Music Player](https://www.curseforge.com/minecraft/mc-mods/music-player) -> Revisar en el servidor
-
-## Anadidos 08/03/2024 (por revisar)
-
-1. Security Craft
-2. Better Combat
-3. Simply Swords
-4. Kneav's Needs
-5. Epic Samurai's
-6. Combat Roll
-7. The Undergarden
+`minecraft.tokosan.cl`
