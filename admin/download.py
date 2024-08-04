@@ -15,11 +15,14 @@ with open(FILE) as f:
 
     # print("Descarga finalizada")
     
-    print("Descargando librerias...")
-    for lib in data["libraries"]:
-        try:
-            url = lib["url"]
-            filename = wget.download(url)
-        except:
-            print(f"\nError downloading {lib["name"]}\n")
+    # print("Descargando librerias...")
+    # for lib in data["libraries"]:
+    #     try:
+    #         url = lib["url"]
+    #         filename = wget.download(url)
+    #     except:
+    #         print(f"\nError downloading {lib["name"]}\n")
+    for mod in data["mods"]:
+        if "decoraciones" in mod["tags"]:
+            print(f'{mod["name"]}: {mod.get("curseforge", mod.get("url"))}')
     

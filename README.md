@@ -35,25 +35,30 @@ Para iniciar tuve que ver algunos tutoriales, de los que destaco y no quiero per
 
 A continuación se detalla el paso a paso para instalar un cliente que pueda conectarse al servidor
 
-1. Instalar el launcher de Minecraft desde la [página oficial](https://www.minecraft.net/es-es/download)
-2. Crear una nueva instalación vanilla, para esto:
+1. Instalar un launcher de Minecraft. Puede ser el oficial desde la [página de Minecraft](https://www.minecraft.net/es-es/download) o alguno pirata de su preferencia. Las instrucciones sennaladas en este tutorial solo son validas para el launcher oficial.
+2. Abrir el launcher.
+3. Crear una nueva instalación vanilla, para esto:
    1. En la parte superior del cliente ir a Instalaciones/Installations
    2. Seleccionar "Nueva Instalación"/"New Installation"
    3. De nombre escribir 1.20.1 Vanilla o algo similar
    4. En "Version" seleccionar "`release 1.20.1`" (no la "`snapshot 1.20.1-rc1`")
    5. Crear la instalación (botón Crear/Create en la esquina inferior derecha)
    6. Ejecutar la instalación creada (botón Jugar/Play)
-3. Cuando se vea el menú principal del juego, cerrarlo.
-4. Instalar Iris
-   1. Descargar y ejecutar el instalador desde la [página oficial](https://www.irisshaders.dev/download)
+4. Cuando se vea el menú principal del juego, cerrarlo.
+5. Instalar Iris
+   1. Descargar y ejecutar el instalador desde la [página oficial](https://www.irisshaders.dev/download) (JAR Universal)
    2. Seleccionar la versión correcta (1.20.1)
    3. Seleccionar "Iris Only" en vez de "Iris + Fabric"
    4. Presionar el botón Install
-5. Instalar Forge
+6. Instalar Forge
    1. Descargar y ejecutar el instalador desde la [página oficial](https://files.minecraftforge.net/net/minecraftforge/forge/). Debe ser la versión 47.3.0. También se puede usar el [link directo](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-installer.jar)
    2. Presionar "Ok"
-6. Instalar los mods
+7. Instalar los mods
    1. Usar el script de Python aaaaa que lindo que será!!!
+
+## Server
+
+Para instalar el servidor usare Docker Compose. En el directorio `docker` estaran los archivos necesarios para descargar y ejecutar `docker compose up -d`. A la fecha no tengo conocimientos de como respaldar el servidor y el mundo.
 
 # Mods
 
@@ -82,3 +87,13 @@ Los mods que tengo que probar (para ver si funcionan) son:
 1. [Towers of the Wild Modded](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild-modded) -> Probar si es que es necesario tener instalado [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones), lo ideal sería tener únicamente TotW.
 2. [Sound Physics](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) -> Probar sonido de salto
 3. [Music Player](https://www.curseforge.com/minecraft/mc-mods/music-player) -> Revisar en el servidor
+
+## Anadidos 08/03/2024 (por revisar)
+
+1. Security Craft
+2. Better Combat
+3. Simply Swords
+4. Kneav's Needs
+5. Epic Samurai's
+6. Combat Roll
+7. The Undergarden
