@@ -931,6 +931,15 @@
       "tags": ["qol"],
       "client": true,
       "server": true
+    },
+    {
+      "name": "EFMEX",
+      "version": "20.6.1",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/epic-fight-ex-capabilites",
+      "url": "https://mediafilez.forgecdn.net/files/5594/746/EpicFightExCap-20.8.1.jar",
+      "tags": ["combat"],
+      "client": true,
+      "server": true
     }
   ],
 
