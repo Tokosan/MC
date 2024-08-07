@@ -62,3 +62,4 @@ La IP del servidor es
    4. [Battle Arts](https://mediafilez.forgecdn.net/files/5596/596/EpicFightBA-20.8.5.6.jar)
    5. [Guandao Moveset](https://mediafilez.forgecdn.net/files/4960/987/falchionmoveset-20.6.1.jar)
    6. [JRFTL](https://mediafilez.forgecdn.net/files/4594/475/JRFTL-1.20.1-1.6.0.jar)
+   7. [EFMEX](https://mediafilez.forgecdn.net/files/5594/746/EpicFightExCap-20.8.1.jar)

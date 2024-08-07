@@ -101,3 +101,4 @@ https://mediafilez.forgecdn.net/files/5598/482/WeaponsOfMiracles-20.1.8.5.1.jar
 https://mediafilez.forgecdn.net/files/5596/596/EpicFightBA-20.8.5.6.jar
 https://mediafilez.forgecdn.net/files/4960/987/falchionmoveset-20.6.1.jar
 https://mediafilez.forgecdn.net/files/4594/475/JRFTL-1.20.1-1.6.0.jar
+https://mediafilez.forgecdn.net/files/5594/746/EpicFightExCap-20.8.1.jar
