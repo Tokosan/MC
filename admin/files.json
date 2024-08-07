@@ -1089,9 +1089,8 @@
     {
       "name": "EFM Resoursepack",
       "type": "Resource Pack",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/efmcompat"
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/efmcompat",
       "url": "https://mediafilez.forgecdn.net/files/5214/751/EFMCompat Textures.zip"
-
     }
   ]
 }
