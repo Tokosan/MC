@@ -915,15 +915,6 @@
       "server": true
     },
     {
-      "name": "Epic Fight - Guandao Moveset",
-      "version": "20.6.1",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/epic-fight-guandao-moveset",
-      "url": "https://mediafilez.forgecdn.net/files/4960/987/falchionmoveset-20.6.1.jar",
-      "tags": ["combat"],
-      "client": true,
-      "server": true
-    },
-    {
       "name": "Rotten Flesh to Leather",
       "version": "20.6.1",
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/just-another-rotten-flesh-to-leather-mod",
