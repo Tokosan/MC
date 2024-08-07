@@ -811,16 +811,6 @@
       "server": true
     },
     {
-      "name": "Better Combat",
-      "version": "1.8.5",
-      "description": "Mejora el combate",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus",
-      "url": "https://mediafilez.forgecdn.net/files/5266/134/bettercombat-forge-1.8.5+1.20.1.jar",
-      "tags": ["combate"],
-      "client": true,
-      "server": true
-    },
-    {
       "name": "Simply Swords",
       "version": "1.55.0",
       "description": "Nuevas armas",
@@ -867,6 +857,78 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/combat-roll",
       "url": "https://mediafilez.forgecdn.net/files/5242/791/combatroll-forge-1.3.2+1.20.1.jar",
       "tags": ["combate"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Falling Tree",
+      "version": "4.3.4",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/falling-tree",
+      "url": "https://mediafilez.forgecdn.net/files/5010/620/FallingTree-1.20.1-4.3.4.jar",
+      "tags": ["qol"],
+      "client": false,
+      "server": true
+    },
+    {
+      "name": "Mouse Tweaks",
+      "version": "2.14",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
+      "url": "https://mediafilez.forgecdn.net/files/5338/457/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "tags": ["qol"],
+      "client": true,
+      "server": false
+    },
+    {
+      "name": "Epic Fight Mod",
+      "version": "20.8.5",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/epic-fight-mod",
+      "url": "https://mediafilez.forgecdn.net/files/5601/221/epicfight-forge-20.8.5-1.20.1.jar",
+      "tags": ["combat"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Epic Fight Mod & Other Mods Weapons Compabilities",
+      "version": "20.2.0",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/efmcompat",
+      "url": "https://mediafilez.forgecdn.net/files/5214/748/EFMCompat 2.0.jar",
+      "tags": ["combat"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Weapons of Miracles",
+      "version": "20.1.8.5.1",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/weapons-of-miracles-epicfight",
+      "url": "https://mediafilez.forgecdn.net/files/5598/482/WeaponsOfMiracles-20.1.8.5.1.jar",
+      "tags": ["combat"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Epic Fight - Battle Arts",
+      "version": "20.8.5.6",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ef-bs",
+      "url": "https://mediafilez.forgecdn.net/files/5596/596/EpicFightBA-20.8.5.6.jar",
+      "tags": ["combat"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Epic Fight - Guandao Moveset",
+      "version": "20.6.1",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/epic-fight-guandao-moveset",
+      "url": "https://mediafilez.forgecdn.net/files/4960/987/falchionmoveset-20.6.1.jar",
+      "tags": ["combat"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Rotten Flesh to Leather",
+      "version": "20.6.1",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/just-another-rotten-flesh-to-leather-mod",
+      "url": "https://mediafilez.forgecdn.net/files/4594/475/JRFTL-1.20.1-1.6.0.jar",
+      "tags": ["qol"],
       "client": true,
       "server": true
     }
@@ -1023,6 +1085,13 @@
       "type": "Resource Pack",
       "curseforge": "https://www.curseforge.com/minecraft/texture-packs/fancy-gui-overhaul",
       "url": "https://mediafilez.forgecdn.net/files/4628/818/Fancy%2C%20GUI%20Overhaul%20v0.1.2.8%20%28Dark%29.zip"
+    },
+    {
+      "name": "EFM Resoursepack",
+      "type": "Resource Pack",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/efmcompat"
+      "url": "https://mediafilez.forgecdn.net/files/5214/751/EFMCompat Textures.zip"
+
     }
   ]
 }

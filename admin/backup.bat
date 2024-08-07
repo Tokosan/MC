@@ -24,5 +24,5 @@ if errorlevel 1 goto :Compress
 REM Delete the new folder
 rmdir /s /q "%destination%\%folderName%"
 
-REM Delete old backups (retain the last 7)
-powershell -nologo -noprofile -Command " $backupFiles = Get-ChildItem -Path \"%destination%\mc_data_*\" -File | Sort-Object CreationTime; $filesToRetain = $backupFiles.Count - 7; if ($filesToRetain -gt 0) { $backupFiles | Select-Object -First $filesToRetain | ForEach-Object { Remove-Item -Path $_.FullName -Force -Recurse; $zipFile = \"$($_.FullName).zip\"; if (Test-Path $zipFile) { Remove-Item -Path $zipFile -Force } } }"
+REM Delete old backups (retain the last 14)
+powershell -nologo -noprofile -Command " $backupFiles = Get-ChildItem -Path \"%destination%\mc_data_*\" -File | Sort-Object CreationTime; $filesToRetain = $backupFiles.Count - 14; if ($filesToRetain -gt 0) { $backupFiles | Select-Object -First $filesToRetain | ForEach-Object { Remove-Item -Path $_.FullName -Force -Recurse; $zipFile = \"$($_.FullName).zip\"; if (Test-Path $zipFile) { Remove-Item -Path $zipFile -Force } } }"

@@ -49,3 +49,16 @@ Para iniciar el cliente hay que revisar que esté seleccionada la versión Forge
 La IP del servidor es
 
 `minecraft.tokosan.cl`
+
+## Changelog
+
+### 2024-08-06
+
+1. Eliminar Better Combat
+2. Añadir lo siguiente:
+   1. [Epic Fight Mod](https://mediafilez.forgecdn.net/files/5601/221/epicfight-forge-20.8.5-1.20.1.jar)
+   2. [EFM Compat](https://mediafilez.forgecdn.net/files/5214/748/EFMCompat%202.0.jar)
+   3. [Weapons of Miracles](https://mediafilez.forgecdn.net/files/5598/482/WeaponsOfMiracles-20.1.8.5.1.jar)
+   4. [Battle Arts](https://mediafilez.forgecdn.net/files/5596/596/EpicFightBA-20.8.5.6.jar)
+   5. [Guandao Moveset](https://mediafilez.forgecdn.net/files/4960/987/falchionmoveset-20.6.1.jar)
+   6. [JRFTL](https://mediafilez.forgecdn.net/files/4594/475/JRFTL-1.20.1-1.6.0.jar")
