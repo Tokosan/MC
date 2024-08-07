@@ -6,6 +6,7 @@ https://mediafilez.forgecdn.net/files/5051/242/FarmersDelight-1.20.1-1.2.4.jar
 https://mediafilez.forgecdn.net/files/4966/125/Patchouli-1.20.1-84-FORGE.jar
 https://mediafilez.forgecdn.net/files/5396/674/EnchantmentDescriptions-Forge-1.20.1-17.0.16.jar
 https://mediafilez.forgecdn.net/files/5372/401/polymorph-forge-0.49.5%2B1.20.1.jar
+https://mediafilez.forgecdn.net/files/5458/843/supplementaries-1.20-2.8.17.jar
 https://mediafilez.forgecdn.net/files/5467/925/amendments-1.20-1.2.8.jar
 https://mediafilez.forgecdn.net/files/5046/69/Paraglider-forge-20.1.3.jar
 https://mediafilez.forgecdn.net/files/5239/660/totw_modded-forge-1.20.1-1.0.5.jar
@@ -67,12 +68,18 @@ https://mediafilez.forgecdn.net/files/4602/980/cfm-forge-1.20.1-7.0.0-pre36.jar
 https://mediafilez.forgecdn.net/files/4655/668/Incendium_1.20.1_v5.3.1.jar
 https://mediafilez.forgecdn.net/files/5512/52/Nullscape_1.20.x_v1.2.7.jar
 https://mediafilez.forgecdn.net/files/5424/863/%5B1.20.1%5D%20SecurityCraft%20v1.9.10.jar
-https://mediafilez.forgecdn.net/files/5266/134/bettercombat-forge-1.8.5%2B1.20.1.jar
 https://mediafilez.forgecdn.net/files/5255/968/simplyswords-forge-1.55.0-1.20.1.jar
 https://mediafilez.forgecdn.net/files/4798/238/knavesneeds-forge-2.0%2B1.20.1.jar
 https://mediafilez.forgecdn.net/files/5182/632/The_Undergarden-1.20.1-0.8.14.jar
 https://mediafilez.forgecdn.net/files/5493/853/epicsamurai-0.0.46-1.20.1-neo.jar
 https://mediafilez.forgecdn.net/files/5242/791/combatroll-forge-1.3.2%2B1.20.1.jar
+https://mediafilez.forgecdn.net/files/5010/620/FallingTree-1.20.1-4.3.4.jar
+https://mediafilez.forgecdn.net/files/5601/221/epicfight-forge-20.8.5-1.20.1.jar
+https://mediafilez.forgecdn.net/files/5214/748/EFMCompat%202.0.jar
+https://mediafilez.forgecdn.net/files/5598/482/WeaponsOfMiracles-20.1.8.5.1.jar
+https://mediafilez.forgecdn.net/files/5596/596/EpicFightBA-20.8.5.6.jar
+https://mediafilez.forgecdn.net/files/4960/987/falchionmoveset-20.6.1.jar
+https://mediafilez.forgecdn.net/files/4594/475/JRFTL-1.20.1-1.6.0.jar
 https://mediafilez.forgecdn.net/files/5423/987/Bookshelf-Forge-1.20.1-20.2.13.jar
 https://mediafilez.forgecdn.net/files/5331/703/YungsApi-1.20-Forge-4.0.5.jar
 https://mediafilez.forgecdn.net/files/5326/245/sophisticatedcore-1.20.1-0.6.22.611.jar
@@ -95,9 +102,3 @@ https://mediafilez.forgecdn.net/files/5096/38/coroutil-forge-1.20.1-1.3.7.jar
 https://mediafilez.forgecdn.net/files/5470/32/cupboard-1.20.1-2.7.jar
 https://mediafilez.forgecdn.net/files/5546/654/azurelib-neo-1.20.1-2.0.30.jar
 https://mediafilez.forgecdn.net/files/4587/214/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar
-https://mediafilez.forgecdn.net/files/5601/221/epicfight-forge-20.8.5-1.20.1.jar
-https://mediafilez.forgecdn.net/files/5214/748/EFMCompat%202.0.jar
-https://mediafilez.forgecdn.net/files/5598/482/WeaponsOfMiracles-20.1.8.5.1.jar
-https://mediafilez.forgecdn.net/files/5596/596/EpicFightBA-20.8.5.6.jar
-https://mediafilez.forgecdn.net/files/4960/987/falchionmoveset-20.6.1.jar
-https://mediafilez.forgecdn.net/files/4594/475/JRFTL-1.20.1-1.6.0.jar
