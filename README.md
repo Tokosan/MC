@@ -62,3 +62,9 @@ La IP del servidor es
    4. [Battle Arts](https://mediafilez.forgecdn.net/files/5596/596/EpicFightBA-20.8.5.6.jar)
    5. [JRFTL](https://mediafilez.forgecdn.net/files/4594/475/JRFTL-1.20.1-1.6.0.jar)
    6. [EFMEX](https://mediafilez.forgecdn.net/files/5594/746/EpicFightExCap-20.8.1.jar)
+
+### 2024-08-12
+
+En veremos:
+
+1. [Create Armor](https://www.curseforge.com/minecraft/mc-mods/protection-pixel)

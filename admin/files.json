@@ -863,6 +863,7 @@
     {
       "name": "Falling Tree",
       "version": "4.3.4",
+      "description": "Talar arboles enteros de un golpe",
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/falling-tree",
       "url": "https://mediafilez.forgecdn.net/files/5010/620/FallingTree-1.20.1-4.3.4.jar",
       "tags": ["qol"],
@@ -872,6 +873,7 @@
     {
       "name": "Mouse Tweaks",
       "version": "2.14",
+      "description": "Mejoras al mouse",
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
       "url": "https://mediafilez.forgecdn.net/files/5338/457/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
       "tags": ["qol"],
@@ -881,6 +883,7 @@
     {
       "name": "Epic Fight Mod",
       "version": "20.8.5",
+      "description": "Combate mas interesante",
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/epic-fight-mod",
       "url": "https://mediafilez.forgecdn.net/files/5601/221/epicfight-forge-20.8.5-1.20.1.jar",
       "tags": ["combat"],
@@ -890,6 +893,7 @@
     {
       "name": "Epic Fight Mod & Other Mods Weapons Compabilities",
       "version": "20.2.0",
+      "description": "Compatibilidad con otros mods de armas",
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/efmcompat",
       "url": "https://mediafilez.forgecdn.net/files/5214/748/EFMCompat 2.0.jar",
       "tags": ["combat"],
@@ -899,6 +903,7 @@
     {
       "name": "Weapons of Miracles",
       "version": "20.1.8.5.1",
+      "description": "Armas de milagros",
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/weapons-of-miracles-epicfight",
       "url": "https://mediafilez.forgecdn.net/files/5598/482/WeaponsOfMiracles-20.1.8.5.1.jar",
       "tags": ["combat"],
@@ -908,6 +913,7 @@
     {
       "name": "Epic Fight - Battle Arts",
       "version": "20.8.5.6",
+      "description": "Artes de combate",
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ef-bs",
       "url": "https://mediafilez.forgecdn.net/files/5596/596/EpicFightBA-20.8.5.6.jar",
       "tags": ["combat"],
@@ -917,6 +923,7 @@
     {
       "name": "Rotten Flesh to Leather",
       "version": "20.6.1",
+      "description": "Convierte carne podrida en cuero",
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/just-another-rotten-flesh-to-leather-mod",
       "url": "https://mediafilez.forgecdn.net/files/4594/475/JRFTL-1.20.1-1.6.0.jar",
       "tags": ["qol"],
@@ -926,9 +933,154 @@
     {
       "name": "EFMEX",
       "version": "20.6.1",
+      "description": "Epic Fight Mod Extension",
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/epic-fight-ex-capabilites",
       "url": "https://mediafilez.forgecdn.net/files/5594/746/EpicFightExCap-20.8.1.jar",
       "tags": ["combat"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Macaw's Doors",
+      "projectID": "378646",
+      "fileID": "5439224",
+      "version": "1.1.1",
+      "description": "Puertas bonitas",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/macaws-doors",
+      "url": "https://mediafilez.forgecdn.net/files/5439/224/mcw-doors-1.1.1forge-mc1.20.1.jar",
+      "tags": ["decoraciones"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Macaw's Fences and Walls",
+      "projectID": "453925",
+      "fileID": "5442217",
+      "version": "1.1.2",
+      "description": "Murallas bonitas",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls",
+      "url": "https://mediafilez.forgecdn.net/files/5442/217/mcw-fences-1.1.2-mc1.20.1forge.jar",
+      "tags": ["decoraciones"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Decorative Blocks",
+      "projectID": "362528",
+      "fileID": "5089406",
+      "version": "4.1.3",
+      "description": "Bloques bonitos",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/decorative-blocks",
+      "url": "https://mediafilez.forgecdn.net/files/5089/406/decorative_blocks-forge-1.20.1-4.1.3.jar",
+      "tags": ["decoraciones"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Pick Up Norifier",
+      "projectID": "351441",
+      "fileID": "4613538",
+      "version": "8.0.0",
+      "description": "Notificaciones de los bloques recogidos",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier",
+      "url": "https://mediafilez.forgecdn.net/files/4613/538/PickUpNotifier-v8.0.0-1.20.1-Forge.jar",
+      "tags": ["hud"],
+      "client": false,
+      "server": false
+    },
+    {
+      "name": "Trash slot",
+      "projectID": "235577",
+      "fileID": "4753168",
+      "version": "15.1.0",
+      "description": "Slot en el inventario para eliminar items",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/trashslot",
+      "url": "https://mediafilez.forgecdn.net/files/4753/168/trashslot-forge-1.20-15.1.0.jar",
+      "tags": ["qol"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Alex's Mobs",
+      "projectID": "426558",
+      "fileID": "5160697",
+      "version": "1.22.8",
+      "description": "Mobs bonitos",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs",
+      "url": "https://mediafilez.forgecdn.net/files/5160/697/alexsmobs-1.22.8.jar",
+      "tags": ["mobs"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Create Stuff & Additions",
+      "projectID": "466792",
+      "fileID": "4703287",
+      "version": "2.0.4a",
+      "description": "Create Addon - Cosas",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions",
+      "url": "https://mediafilez.forgecdn.net/files/4703/287/create-stuff-additions1.20.1_v2.0.4a.jar",
+      "tags": ["create"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Create Additional Recipes",
+      "projectID": "953547",
+      "fileID": "4990054",
+      "version": "1.2.0",
+      "description": "Create Addon - Recetas",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-additional-recipes",
+      "url": "https://mediafilez.forgecdn.net/files/4990/54/create_recipes-1.2.0.jar",
+      "tags": ["create"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "The Aether",
+      "projectID": "255308",
+      "fileID": "5302178",
+      "version": "1.4.2",
+      "description": "Dimension del cielo",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/aether",
+      "url": "https://mediafilez.forgecdn.net/files/5302/178/aether-1.20.1-1.4.2-neoforge.jar",
+      "tags": ["dimensiones"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Create Bells and Whistles",
+      "projectID": "905040",
+      "fileID": "4860141",
+      "version": "0.4.3",
+      "description": "Create Addon - Campanitas y silbatos",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles",
+      "url": "https://mediafilez.forgecdn.net/files/4860/141/bellsandwhistles-0.4.3-1.20.x.jar",
+      "tags": ["create"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Ad Astra",
+      "projectID": "635042",
+      "fileID": "4894852",
+      "version": "0.4.3",
+      "description": "AL ESPACIO!",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ad-astra",
+      "url": "https://mediafilez.forgecdn.net/files/4894/852/ad_astra-forge-1.20.1-1.15.5.jar",
+      "tags": ["dimensiones"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Create Steam 'n' Rails",
+      "projectID": "688231",
+      "fileID": "5331300",
+      "version": "1.6.4",
+      "description": "Create Addon - Trenes",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails",
+      "url": "https://mediafilez.forgecdn.net/files/5331/300/Steam_Rails-1.6.4+forge-mc1.20.1.jar",
+      "tags": ["create"],
       "client": true,
       "server": true
     }
@@ -1063,6 +1215,14 @@
       "version": "1.0.2",
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/playeranimator",
       "url": "https://mediafilez.forgecdn.net/files/4587/214/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
+    },
+    {
+      "name": "Botarium",
+      "version": "2.3.4",
+      "projectID": "704113",
+      "fileID": "5486070",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/botarium",
+      "url": "https://mediafilez.forgecdn.net/files/5486/70/botarium-forge-1.20.1-2.3.4.jar"
     }
   ],
 
