@@ -1,7 +1,7 @@
 import wget
 import json
 
-FILE = "files.json"
+FILE = "../admin/files.json"
 
 with open(FILE) as f:
     data = json.load(f)

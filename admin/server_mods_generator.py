@@ -23,6 +23,6 @@ with open(FILE) as f:
         url = url.rsplit("/", 1)[0] + '/' + filename
         output += url + "\n"
     # print(output)
-    with open("server_mods.txt", "w") as f:
+    with open("mods.txt", "w") as f:
         f.write(output)
    
