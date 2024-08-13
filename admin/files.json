@@ -851,16 +851,6 @@
       "server": true
     },
     {
-      "name": "Combat Roll",
-      "version": "1.3.2",
-      "description": "Dodge al estilo souls",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/combat-roll",
-      "url": "https://mediafilez.forgecdn.net/files/5242/791/combatroll-forge-1.3.2+1.20.1.jar",
-      "tags": ["combate"],
-      "client": true,
-      "server": true
-    },
-    {
       "name": "Falling Tree",
       "version": "4.3.4",
       "description": "Talar arboles enteros de un golpe",
@@ -1081,6 +1071,18 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails",
       "url": "https://mediafilez.forgecdn.net/files/5331/300/Steam_Rails-1.6.4+forge-mc1.20.1.jar",
       "tags": ["create"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Chipped",
+      "projectID": "456956",
+      "fileID": "5270039",
+      "version": "3.0.6",
+      "description": "Bloques modificados",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/chipped",
+      "url": "https://mediafilez.forgecdn.net/files/5270/39/Chipped-forge-1.20.1-3.0.6.jar",
+      "tags": ["decoraciones"],
       "client": true,
       "server": true
     }
