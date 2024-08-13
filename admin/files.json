@@ -1063,18 +1063,6 @@
       "server": true
     },
     {
-      "name": "Create Steam 'n' Rails",
-      "projectID": "688231",
-      "fileID": "5331300",
-      "version": "1.6.4",
-      "description": "Create Addon - Trenes",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails",
-      "url": "https://mediafilez.forgecdn.net/files/5331/300/Steam_Rails-1.6.4+forge-mc1.20.1.jar",
-      "tags": ["create"],
-      "client": true,
-      "server": true
-    },
-    {
       "name": "Chipped",
       "projectID": "456956",
       "fileID": "5270039",
@@ -1225,6 +1213,38 @@
       "fileID": "5486070",
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/botarium",
       "url": "https://mediafilez.forgecdn.net/files/5486/70/botarium-forge-1.20.1-2.3.4.jar"
+    },
+    {
+      "name": "Citadel",
+      "version": "2.5.6",
+      "projectID": "331936",
+      "fileID": "5559513",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/citadel",
+      "url": "https://mediafilez.forgecdn.net/files/5559/513/citadel-2.5.6-1.20.1.jar"
+    },
+    {
+      "name": "Athena",
+      "version": "3.1.2",
+      "projectID": "841890",
+      "fileID": "5176879",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/athena",
+      "url": "https://mediafilez.forgecdn.net/files/5176/879/athena-forge-1.20.1-3.1.2.jar"
+    },
+    {
+      "name": "Puzzles Lib",
+      "version": "8.1.21",
+      "projectID": "495476",
+      "fileID": "5475403",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/puzzles-lib",
+      "url": "https://mediafilez.forgecdn.net/files/5475/403/PuzzlesLib-v8.1.21-1.20.1-Forge.jar"
+    },
+    {
+      "name": "Resourceful Config",
+      "version": "2.1.2",
+      "projectID": "714059",
+      "fileID": "5020441",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/resourceful-config",
+      "url": "https://mediafilez.forgecdn.net/files/5020/441/resourcefulconfig-forge-1.20.1-2.1.2.jar"
     }
   ],
 
