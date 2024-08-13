@@ -281,6 +281,16 @@
       "server": true
     },
     {
+      "name": "Create Interiors",
+      "version": "0.4.3",
+      "description": "Create Addon: Sillas de colores!!!",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/interiors",
+      "url": "https://mediafilez.forgecdn.net/files/4806/478/interiors-0.4.3.jar",
+      "tags": ["decoraciones", "create"],
+      "client": true,
+      "server": true
+    },
+    {
       "name": "Create Misc And Things",
       "version": "4.0A",
       "description": "Create Addon - Miscelaneos",
@@ -872,10 +882,12 @@
     },
     {
       "name": "Epic Fight Mod",
-      "version": "20.8.5",
+      "version": "20.8.9",
       "description": "Combate mas interesante",
+      "fileID": "5618905",
+      "projectID": "405076",
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/epic-fight-mod",
-      "url": "https://mediafilez.forgecdn.net/files/5601/221/epicfight-forge-20.8.5-1.20.1.jar",
+      "url": "https://mediafilez.forgecdn.net/files/5618/905/epicfight-forge-20.8.9-1.20.1.jar",
       "tags": ["combat"],
       "client": true,
       "server": true
@@ -1073,6 +1085,90 @@
       "tags": ["decoraciones"],
       "client": true,
       "server": true
+    },
+    {
+      "name": "Passive Skill Tree",
+      "projectID": "850298",
+      "fileID": "5367713",
+      "version": "0.6.13a",
+      "description": "Arbol de habilidades",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/passive-skill-tree",
+      "url": "https://mediafilez.forgecdn.net/files/5367/713/PassiveSkillTree-1.20.1-BETA-0.6.13a-all.jar",
+      "tags": ["rpg"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Create Protection Pixel",
+      "projectID": "1023409",
+      "fileID": "5612779",
+      "version": "1.0.4",
+      "description": "Create Addon - Armaduras",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/protection-pixel",
+      "url": "https://mediafilez.forgecdn.net/files/5612/779/protection_pixel-1.0.4-forge-1.20.1.jar",
+      "tags": ["create"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Brutal Bosses",
+      "projectID": "5566153",
+      "fileID": "5612779",
+      "version": "7.1",
+      "description": "Jefes",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/brutal-bosses-dungeon",
+      "url": "https://mediafilez.forgecdn.net/files/5566/153/brutalbosses-1.20.1-7.1.jar",
+      "tags": ["rpg"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Mowzie's Mobs",
+      "projectID": "250498",
+      "fileID": "5399941",
+      "version": "1.6.5",
+      "description": "Jefes",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs",
+      "url": "https://mediafilez.forgecdn.net/files/5399/941/mowziesmobs-1.6.5.jar",
+      "tags": ["rpg"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Create Deco",
+      "projectID": "509285",
+      "fileID": "5293982",
+      "version": "2.0.2",
+      "description": "Create Addon - Decoraciones",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-deco",
+      "url": "https://mediafilez.forgecdn.net/files/5293/982/createdeco-2.0.2-1.20.1-forge.jar",
+      "tags": ["create"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Structurize",
+      "projectID": "298744",
+      "fileID": "5510044",
+      "version": "1.0.742",
+      "description": "Copypastear estructuras",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/structurize",
+      "url": "https://mediafilez.forgecdn.net/files/5510/44/structurize-1.20.1-1.0.742-RELEASE.jar",
+      "tags": ["qol"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "XP Tome",
+      "projectID": "344787",
+      "fileID": "5465675",
+      "version": "2.2.1",
+      "description": "Libros de experiencia",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/xp-tome",
+      "url": "https://mediafilez.forgecdn.net/files/5465/675/xptome-1.20.1-2.2.1.jar",
+      "tags": ["qol"],
+      "client": true,
+      "server": true
     }
   ],
 
@@ -1245,6 +1341,30 @@
       "fileID": "5020441",
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/resourceful-config",
       "url": "https://mediafilez.forgecdn.net/files/5020/441/resourcefulconfig-forge-1.20.1-2.1.2.jar"
+    },
+    {
+      "name": "Item Production Lib",
+      "version": "1.0.2a",
+      "projectID": "950401",
+      "fileID": "5114036",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/item-production-lib",
+      "url": "https://mediafilez.forgecdn.net/files/5114/36/ItemProductionLib-1.20.1-1.0.2a-all.jar"
+    },
+    {
+      "name": "Domum Ornamentum",
+      "version": "1.0.186",
+      "projectID": "527361",
+      "fileID": "5281660",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum",
+      "url": "https://mediafilez.forgecdn.net/files/5281/660/domum_ornamentum-1.20.1-1.0.186-RELEASE-universal.jar"
+    },
+    {
+      "name": "Block UI",
+      "version": "1.0.156",
+      "projectID": "522992",
+      "fileID": "5280792",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/blockui",
+      "url": "https://mediafilez.forgecdn.net/files/5280/792/blockui-1.20.1-1.0.156-RELEASE.jar"
     }
   ],
 
