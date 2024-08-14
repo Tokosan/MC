@@ -121,16 +121,6 @@
       "server": true
     },
     {
-      "name": "Supplementaries",
-      "version": "2.8.17",
-      "description": "Anade cositas bonitas",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/supplementaries",
-      "url": "https://mediafilez.forgecdn.net/files/5458/843/supplementaries-1.20-2.8.17.jar",
-      "tags": ["decoraciones"],
-      "client": true,
-      "server": true
-    },
-    {
       "name": "Amendments",
       "version": "1.2.8",
       "description": "Anade cositas bonitas",
@@ -882,12 +872,12 @@
     },
     {
       "name": "Epic Fight Mod",
-      "version": "20.8.9",
+      "version": "20.8.8",
       "description": "Combate mas interesante",
-      "fileID": "5618905",
+      "fileID": "5615812",
       "projectID": "405076",
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/epic-fight-mod",
-      "url": "https://mediafilez.forgecdn.net/files/5618/905/epicfight-forge-20.8.9-1.20.1.jar",
+      "url": "https://mediafilez.forgecdn.net/files/5615/812/epicfight-forge-20.8.8-1.20.1.jar",
       "tags": ["combat"],
       "client": true,
       "server": true
