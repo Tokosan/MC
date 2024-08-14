@@ -6,9 +6,10 @@ FILE = "files.json"
 with open(FILE) as f:
     data = json.load(f)
     for mod in data["mods"]:
+        if mod["client"]: continue
         name = mod["name"]
         description = mod["description"]
-        print(f"{name}: {description}")
+        print(f"[{name}]({mod['curseforge']}): {description}")
         
     # for mod in data["mods"]:
     #     url = mod["url"]
@@ -18,5 +19,3 @@ with open(FILE) as f:
     #     url = lib["url"]
     #     # descargamos las librerias
     #     wget.download(url)
-    
-    

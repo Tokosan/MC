@@ -44,6 +44,27 @@ A continuación se detalla el paso a paso para instalar un cliente que pueda con
 
 Para iniciar el cliente hay que revisar que esté seleccionada la versión Forge 1.20.1 (no la instalación Vanilla que crearon)
 
+Después de descargar y meter los mods, se pueden eliminar los siguientes mods que no son necesarios por parte de los clientes:
+
+- [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin): Mejora visual para el HUD respecto a la comida
+- [JEI](https://www.curseforge.com/minecraft/mc-mods/jei): Muestra todos los items y sus recetas y usos
+- [JER](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer): JEI Addon para recursos
+- [JADE](https://www.curseforge.com/minecraft/mc-mods/jade): HWYLA
+- [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions): Muestra las descripciones de los encantamientos
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap): Minimapa
+- [Xaero's Worldmap](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map): Mapa del mundo
+- [Ambient Sounds](https://www.curseforge.com/minecraft/mc-mods/ambientsounds): Sonidos ambientales
+- [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge): Interfaz para tener el inventario siempre visible
+- [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements): Mejoras de rendimiento relacionadas con la IA
+- [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations): Animaciones en tercera persona
+- [First Person Model](https://www.curseforge.com/minecraft/mc-mods/first-person-model): Primera persona mas inmersiva
+- [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d): Le da profundidad a los modelos de personaje
+- [Sound Physics](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered): Sonidos con fisicas reales
+- [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge): Hojas que caen de los arboles
+- [What Are They Up To](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to): Permite ver que hacen los demas jugadores
+- [Falling Tree](https://www.curseforge.com/minecraft/mc-mods/falling-tree): Talar arboles enteros de un golpe
+- [Pick Up Norifier](https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier): Notificaciones de los bloques recogidos
+
 ## Conexión
 
 La IP del servidor es
@@ -62,9 +83,3 @@ La IP del servidor es
    4. [Battle Arts](https://mediafilez.forgecdn.net/files/5596/596/EpicFightBA-20.8.5.6.jar)
    5. [JRFTL](https://mediafilez.forgecdn.net/files/4594/475/JRFTL-1.20.1-1.6.0.jar)
    6. [EFMEX](https://mediafilez.forgecdn.net/files/5594/746/EpicFightExCap-20.8.1.jar)
-
-### 2024-08-12
-
-En veremos:
-
-1. [Create Armor](https://www.curseforge.com/minecraft/mc-mods/protection-pixel)
