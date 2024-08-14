@@ -1053,18 +1053,6 @@
       "server": true
     },
     {
-      "name": "Ad Astra",
-      "projectID": "635042",
-      "fileID": "4894852",
-      "version": "0.4.3",
-      "description": "AL ESPACIO!",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ad-astra",
-      "url": "https://mediafilez.forgecdn.net/files/4894/852/ad_astra-forge-1.20.1-1.15.5.jar",
-      "tags": ["dimensiones"],
-      "client": true,
-      "server": true
-    },
-    {
       "name": "Chipped",
       "projectID": "456956",
       "fileID": "5270039",
