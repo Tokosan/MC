@@ -1,0 +1,1376 @@
+{
+  "mods": [
+    {
+      "name": "AppleSkin",
+      "version": "2.5.1",
+      "description": "Mejora visual para el HUD respecto a la comida",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
+      "url": "https://mediafilez.forgecdn.net/files/4770/828/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "tags": ["hud"],
+      "client": false,
+      "server": false
+    },
+    {
+      "name": "JEI",
+      "version": "15.8.2.25",
+      "description": "Muestra todos los items y sus recetas y usos",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/jei",
+      "url": "https://mediafilez.forgecdn.net/files/5576/551/jei-1.20.1-forge-15.8.2.25.jar",
+      "tags": ["utilidad", "hud"],
+      "client": false,
+      "server": true
+    },
+    {
+      "name": "JER",
+      "version": "1.4.0.247",
+      "description": "JEI Addon para recursos",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer",
+      "url": "https://mediafilez.forgecdn.net/files/5057/220/JustEnoughResources-1.20.1-1.4.0.247.jar",
+      "tags": ["utilidad", "hud"],
+      "client": false,
+      "server": true
+    },
+    {
+      "name": "Oculus",
+      "version": "1.6.4",
+      "description": "Fork de Iris",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/oculus",
+      "url": "https://mediafilez.forgecdn.net/files/4578/741/oculus-mc1.20-1.6.4.jar",
+      "tags": ["performance"],
+      "client": true,
+      "server": false
+    },
+    {
+      "name": "Rubidium",
+      "version": "0.6.5",
+      "description": "Fork de Sodium",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/rubidium",
+      "url": "https://mediafilez.forgecdn.net/files/4573/226/rubidium-0.6.5.jar",
+      "tags": ["performance"],
+      "client": true,
+      "server": false
+    },
+    {
+      "name": "Clumps",
+      "version": "12.0.0.4",
+      "description": "Agrupa los orbes de experiencia para reducir el lag",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/clumps",
+      "url": "https://mediafilez.forgecdn.net/files/5278/538/Clumps-forge-1.20.1-12.0.0.4.jar",
+      "tags": ["performance"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Nature's Compass",
+      "version": "1.11.2",
+      "description": "Anade una brujula para encontrar biomas",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/natures-compass",
+      "url": "https://mediafilez.forgecdn.net/files/4712/189/NaturesCompass-1.20.1-1.11.2-forge.jar",
+      "tags": ["qol"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "JADE",
+      "version": "11.9.2",
+      "description": "HWYLA",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/jade",
+      "url": "https://mediafilez.forgecdn.net/files/5339/264/Jade-1.20.1-forge-11.9.2.jar",
+      "tags": ["hud", "qol"],
+      "client": false,
+      "server": false
+    },
+    {
+      "name": "Farmer's Delight",
+      "version": "1.2.4",
+      "description": "Anade cositas lindas de agricultura",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/farmers-delight",
+      "url": "https://mediafilez.forgecdn.net/files/5051/242/FarmersDelight-1.20.1-1.2.4.jar",
+      "tags": ["cocina", "decoraciones"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Patchouli",
+      "version": "84",
+      "description": "Libros para los mods",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/patchouli",
+      "url": "https://mediafilez.forgecdn.net/files/4966/125/Patchouli-1.20.1-84-FORGE.jar",
+      "tags": ["qol"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Enchantment Descriptions",
+      "version": "17.0.16",
+      "description": "Muestra las descripciones de los encantamientos",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions",
+      "url": "https://mediafilez.forgecdn.net/files/5396/674/EnchantmentDescriptions-Forge-1.20.1-17.0.16.jar",
+      "tags": ["hud", "qol"],
+      "client": false,
+      "server": true
+    },
+    {
+      "name": "Polymorph",
+      "version": "0.49.5",
+      "description": "Resuelve conflictos de recetas de crafteo",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/polymorph",
+      "url": "https://mediafilez.forgecdn.net/files/5372/401/polymorph-forge-0.49.5+1.20.1.jar",
+      "tags": ["qol"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Amendments",
+      "version": "1.2.8",
+      "description": "Anade cositas bonitas",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/amendments",
+      "url": "https://mediafilez.forgecdn.net/files/5467/925/amendments-1.20-1.2.8.jar",
+      "tags": ["decoraciones"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Paragliders",
+      "version": "20.1.3",
+      "description": "Parapentes inspirados en Zelda",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/paragliders",
+      "url": "https://mediafilez.forgecdn.net/files/5046/69/Paraglider-forge-20.1.3.jar",
+      "tags": ["movimiento"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Towers of the Wild Modded",
+      "version": "1.0.5",
+      "description": "Torres inspiradas en Zelda",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild-modded",
+      "url": "https://mediafilez.forgecdn.net/files/5239/660/totw_modded-forge-1.20.1-1.0.5.jar",
+      "tags": ["worldgen"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Waystones",
+      "version": "14.1.4",
+      "description": "Rocas de teletransporte",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/waystones",
+      "url": "https://mediafilez.forgecdn.net/files/5500/759/waystones-forge-1.20-14.1.4.jar",
+      "tags": ["worldgen"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Xaero's Minimap",
+      "version": "24.2.0",
+      "description": "Minimapa",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
+      "url": "https://mediafilez.forgecdn.net/files/5394/772/Xaeros_Minimap_24.2.0_Forge_1.20.jar",
+      "tags": ["hud"],
+      "client": false,
+      "server": true
+    },
+    {
+      "name": "Xaero's Worldmap",
+      "version": "1.38.8",
+      "description": "Mapa del mundo",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map",
+      "url": "https://mediafilez.forgecdn.net/files/5394/829/XaerosWorldMap_1.38.8_Forge_1.20.jar",
+      "tags": ["hud"],
+      "client": false,
+      "server": true
+    },
+    {
+      "name": "Tectonic",
+      "version": "2.3.5a",
+      "description": "Generacion de mundo amplificada",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/tectonic",
+      "url": "https://mediafilez.forgecdn.net/files/5400/770/tectonic-forge-1.19.3-2.3.5a.jar",
+      "tags": ["worldgen"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Terralith",
+      "version": "2.5.1",
+      "description": "Generacion de mundo fantasiosa",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/terralith",
+      "url": "https://mediafilez.forgecdn.net/files/5351/328/Terralith_1.20_v2.5.1.jar",
+      "tags": ["worldgen"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Sophisticated Backpack",
+      "version": "3.20.5.1044",
+      "description": "Mochilas maravillosas",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks",
+      "url": "https://mediafilez.forgecdn.net/files/5296/475/sophisticatedbackpacks-1.20.1-3.20.5.1044.jar",
+      "tags": ["qol"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Quark",
+      "version": "4.0",
+      "description": "Todo",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/quark",
+      "url": "https://mediafilez.forgecdn.net/files/5418/252/Quark-4.0-458.jar",
+      "tags": ["qol"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Attribute Fix",
+      "version": "21.0.4",
+      "description": "Elimina el limite de atributos para entidades",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/attributefix",
+      "url": "https://mediafilez.forgecdn.net/files/4911/84/AttributeFix-Forge-1.20.1-21.0.4.jar",
+      "tags": ["ajustes"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Carry On",
+      "version": "2.1.2.7",
+      "description": "Permite levantar entidades para moverlas",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/carry-on",
+      "url": "https://mediafilez.forgecdn.net/files/4882/500/carryon-forge-1.20.1-2.1.2.7.jar",
+      "tags": ["qol"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Mahou Tsukai",
+      "version": "1.34.69",
+      "description": "I am the Bone of my Sword Steel is my Body and Fire is my Blood. I have created over a Thousand Blades, Unknown to Death, Nor known to Life. Have withstood Pain to create many Weapons Yet those Hands will never hold Anything. So, as I Pray-- Unlimited Blade Works",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai",
+      "url": "https://mediafilez.forgecdn.net/files/5549/239/mahoutsukai-1.20.1-v1.34.69.jar",
+      "tags": ["magia"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Create",
+      "version": "0.5.1.d",
+      "description": "Ingenieria y cositas bonitas",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create",
+      "url": "https://mediafilez.forgecdn.net/files/4626/108/create-1.20.1-0.5.1.d.jar",
+      "tags": ["automation"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Create Interiors",
+      "version": "0.4.3",
+      "description": "Create Addon: Sillas de colores!!!",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/interiors",
+      "url": "https://mediafilez.forgecdn.net/files/4806/478/interiors-0.4.3.jar",
+      "tags": ["decoraciones", "create"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Create Interiors",
+      "version": "0.4.3",
+      "description": "Create Addon: Sillas de colores!!!",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/interiors",
+      "url": "https://mediafilez.forgecdn.net/files/4806/478/interiors-0.4.3.jar",
+      "tags": ["decoraciones", "create"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Create Misc And Things",
+      "version": "4.0A",
+      "description": "Create Addon - Miscelaneos",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-misc-and-things",
+      "url": "https://mediafilez.forgecdn.net/files/4735/326/create_misc_and_things_ 1.20.1_4.0A.jar",
+      "tags": ["decoraciones", "create"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Create Recycle Everything",
+      "version": "1.0.2",
+      "description": "Create Addon - Reciclador de todo",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-recycle-everything",
+      "url": "https://mediafilez.forgecdn.net/files/4714/469/create_recycle_1.0.2_forge_1.20.1.jar",
+      "tags": ["utilidad", "create"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Create Blue Skies Compat",
+      "version": "1.0.1",
+      "description": "Create Addon - Compatibilidad con Blue Skies",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-blue-skies-compat",
+      "url": "https://mediafilez.forgecdn.net/files/5203/277/create_blue_skies_compat-forge-1.20.1-1.0.1.jar",
+      "tags": ["compatibilidad", "create"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Create Craft & Addition",
+      "version": "1.1.0",
+      "description": "Create Addon - Alternadores de corriente para tener electricidad",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/createaddition",
+      "url": "https://mediafilez.forgecdn.net/files/4760/311/createaddition-1.20.1-1.1.0.jar",
+      "tags": ["automation", "create"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Create Goggles",
+      "version": "0.5.5.e",
+      "description": "Create Addon - Lentes similares los de IE",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-goggles",
+      "url": "https://mediafilez.forgecdn.net/files/4812/965/creategoggles-1.20.1-0.5.5.e_hf-[FORGE].jar",
+      "tags": ["utilidad", "qol", "create"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Create Ultimate Factory",
+      "version": "1.5.1",
+      "description": "Create Addon - Aumenta los recursos renovables",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-ultimate-factory",
+      "url": "https://mediafilez.forgecdn.net/files/5222/507/create_ultimate_factory-1.5.1-forge-1.20.1.jar",
+      "tags": ["create"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Ribbits",
+      "version": "3.0.0",
+      "description": "Ribbits",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ribbits",
+      "url": "https://mediafilez.forgecdn.net/files/5425/415/Ribbits-1.20.1-Forge-3.0.0.jar",
+      "tags": ["qol"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Goblin Traders",
+      "version": "1.9.3",
+      "description": "Mercaderes chiquitos que aparecen de vez en cuando",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/goblin-traders",
+      "url": "https://mediafilez.forgecdn.net/files/4802/505/goblintraders-forge-1.20.1-1.9.3.jar",
+      "tags": ["qol"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Trash Cans",
+      "version": "1.0.18b",
+      "description": "Cubos de basura para eliminar items o fluidos",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/trash-cans",
+      "url": "https://mediafilez.forgecdn.net/files/4712/179/trashcans-1.0.18b-forge-mc1.20.jar",
+      "tags": ["qol"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "YUNG's Bridges",
+      "version": "4.0.3",
+      "description": "Puentes bonitos por el mundo",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/yungs-bridges",
+      "url": "https://mediafilez.forgecdn.net/files/4769/518/YungsBridges-1.20-Forge-4.0.3.jar",
+      "tags": ["worldgen"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "YUNG's Better Mineshafts",
+      "version": "4.0.4",
+      "description": "Mejora las mineshafts",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge",
+      "url": "https://mediafilez.forgecdn.net/files/4769/63/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "tags": ["worldgen"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "YUNG's Better Strongholds",
+      "version": "4.0.3",
+      "description": "Mejora las strongholds",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds",
+      "url": "https://mediafilez.forgecdn.net/files/4769/83/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+      "tags": ["worldgen"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "YUNG's Better Dungeons",
+      "version": "4.0.4",
+      "description": "Mejora las dungeons",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons",
+      "url": "https://mediafilez.forgecdn.net/files/5271/360/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "tags": ["worldgen"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "YUNG's Better Nether Fortress",
+      "version": "2.0.6",
+      "description": "Mejora las dungeons",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses",
+      "url": "https://mediafilez.forgecdn.net/files/5193/465/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+      "tags": ["worldgen"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "YUNG's Better Witch Huts",
+      "version": "3.0.3",
+      "description": "Mejora las casitas de bruja",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts",
+      "url": "https://mediafilez.forgecdn.net/files/4769/489/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+      "tags": ["worldgen"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "YUNG's Better Ocean Monuments",
+      "version": "3.0.4",
+      "description": "Mejora los templos del oceano",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments",
+      "url": "https://mediafilez.forgecdn.net/files/4883/3/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+      "tags": ["worldgen"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Ambient Sounds",
+      "version": "6.0.3",
+      "description": "Sonidos ambientales",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ambientsounds",
+      "url": "https://mediafilez.forgecdn.net/files/5492/111/AmbientSounds_FORGE_v6.0.3_mc1.20.1.jar",
+      "tags": ["inmersion"],
+      "client": false,
+      "server": false
+    },
+    {
+      "name": "Structory",
+      "version": "1.3.5",
+      "description": "Estructuras por el mundo",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/structory",
+      "url": "https://mediafilez.forgecdn.net/files/5351/581/Structory_1.20.x_v1.3.5.jar",
+      "tags": ["worldgen"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Nether's Delight",
+      "version": "4.0",
+      "description": "Farmer's Delight Addon - Recetas relacionadas al Nether",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/nethers-delight",
+      "url": "https://mediafilez.forgecdn.net/files/4736/227/nethersdelight-1.20.1-4.0.jar",
+      "tags": ["cocina"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Cooking for Blockheads",
+      "version": "16.0.6",
+      "description": "Cocina",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads",
+      "url": "https://mediafilez.forgecdn.net/files/5396/13/cookingforblockheads-forge-1.20.1-16.0.6.jar",
+      "tags": ["cocina"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Guard Villagers",
+      "version": "1.6.6",
+      "description": "Aldeanos guardia para las aldeas",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/guard-villagers",
+      "url": "https://mediafilez.forgecdn.net/files/5425/458/guardvillagers-1.20.1-1.6.6.jar",
+      "tags": ["aldeas"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Villager Names",
+      "version": "8.1",
+      "description": "Nombres para los aldeanos",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/villager-names",
+      "url": "https://mediafilez.forgecdn.net/files/5571/624/villagernames-1.20.1-8.1.jar",
+      "tags": ["aldeas"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Deeper and Darker",
+      "version": "1.2.1",
+      "description": "Nueva dimension para el Warden",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/deeperdarker",
+      "url": "https://mediafilez.forgecdn.net/files/4807/511/deeperdarker-forge-1.20.1-1.2.1.jar",
+      "tags": ["dimensiones"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Inventory HUD+",
+      "version": "3.4.24",
+      "description": "Interfaz para tener el inventario siempre visible",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge",
+      "url": "https://mediafilez.forgecdn.net/files/5550/958/inventoryhud.forge.1.20.1-3.4.24.jar",
+      "tags": ["hud", "qol"],
+      "client": false,
+      "server": false
+    },
+    {
+      "name": "Blue Skies",
+      "version": "1.3.31",
+      "description": "Dimensiones interesantes",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/blue-skies",
+      "url": "https://mediafilez.forgecdn.net/files/5010/316/blue_skies-1.20.1-1.3.31.jar",
+      "tags": ["dimensiones"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Towns and Towers",
+      "version": "1.11",
+      "description": "Torres y pueblitos extra",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/towns-and-towers",
+      "url": "https://mediafilez.forgecdn.net/files/4593/117/Towns-and-Towers-1.11-Fabric+Forge.jar",
+      "tags": ["worldgen", "aldeas"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Storage Drawers",
+      "version": "12.0.4",
+      "description": "Bloques compactos de almacenamiento",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/storage-drawers",
+      "url": "https://mediafilez.forgecdn.net/files/5588/623/StorageDrawers-1.20.1-12.0.4.jar",
+      "tags": ["qol"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "AI Improvements",
+      "version": "0.5.2",
+      "description": "Mejoras de rendimiento relacionadas con la IA",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ai-improvements",
+      "url": "https://mediafilez.forgecdn.net/files/4578/262/AI-Improvements-1.20-0.5.2.jar",
+      "tags": ["performance"],
+      "client": false,
+      "server": true
+    },
+    {
+      "name": "When Dungeons Arise",
+      "version": "2.1.57",
+      "description": "Dungeons entretenidas",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise",
+      "url": "https://mediafilez.forgecdn.net/files/4798/432/DungeonsArise-1.20.1-2.1.57-release.jar",
+      "tags": ["worldgen", "dungeons"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Chat Heads",
+      "version": "0.12.9",
+      "description": "Cabezas en el chat",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/chat-heads",
+      "url": "https://mediafilez.forgecdn.net/files/5577/373/chat_heads-0.12.9-forge-1.20.jar",
+      "tags": ["hud"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Macaw's Bridges",
+      "version": "3.0.0",
+      "description": "Bloques para hacer puentes",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/macaws-bridges",
+      "url": "https://mediafilez.forgecdn.net/files/5240/518/mcw-bridges-3.0.0-mc1.20.1forge.jar",
+      "tags": ["decoraciones"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Artifacts",
+      "version": "9.5.11",
+      "description": "Artefactos de terraria",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/artifacts",
+      "url": "https://mediafilez.forgecdn.net/files/5414/790/artifacts-forge-9.5.11.jar",
+      "tags": ["misc"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Corpse",
+      "version": "1.0.12",
+      "description": "Al morir queda tu cuerpo con tus items en vez de los items flotando",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/corpse",
+      "url": "https://mediafilez.forgecdn.net/files/5157/34/corpse-forge-1.20.1-1.0.12.jar",
+      "tags": ["qol"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "MmmMmmMmmMmm",
+      "version": "1.8.17b",
+      "description": "Munecos de practica",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm",
+      "url": "https://mediafilez.forgecdn.net/files/5319/203/dummmmmmy-1.20-1.8.17b.jar",
+      "tags": ["misc"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Aquaculture 2",
+      "version": "2.5.2",
+      "description": "Expande la pesca",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/aquaculture",
+      "url": "https://mediafilez.forgecdn.net/files/5585/290/Aquaculture-1.20.1-2.5.2.jar",
+      "tags": ["cocina", "inmersion"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Not Enough Animations",
+      "version": "1.7.4",
+      "description": "Animaciones en tercera persona",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/not-enough-animations",
+      "url": "https://mediafilez.forgecdn.net/files/5429/265/notenoughanimations-forge-1.7.4-mc1.20.1.jar",
+      "tags": ["visual"],
+      "client": false,
+      "server": false
+    },
+    {
+      "name": "First Person Model",
+      "version": "2.4.4",
+      "description": "Primera persona mas inmersiva",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/first-person-model",
+      "url": "https://mediafilez.forgecdn.net/files/5577/732/firstperson-forge-2.4.4-mc1.20.1.jar",
+      "tags": ["inmersion", "visual"],
+      "client": false,
+      "server": false
+    },
+    {
+      "name": "Skin Layers 3D",
+      "version": "1.6.6",
+      "description": "Le da profundidad a los modelos de personaje",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d",
+      "url": "https://mediafilez.forgecdn.net/files/5429/204/skinlayers3d-forge-1.6.6-mc1.20.1.jar",
+      "tags": ["visual"],
+      "client": false,
+      "server": false
+    },
+    {
+      "name": "Cosmetic Armor Reworked",
+      "version": "1a",
+      "description": "Permite usar una armadura cosmetica y una real",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked",
+      "url": "https://mediafilez.forgecdn.net/files/4600/191/cosmeticarmorreworked-1.20.1-v1a.jar",
+      "tags": ["qol"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Twilight Forest",
+      "version": "4.3.2508",
+      "description": "Dimension interesante y bonita",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest",
+      "url": "https://mediafilez.forgecdn.net/files/5468/648/twilightforest-1.20.1-4.3.2508-universal.jar",
+      "tags": ["dimensiones"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Sound Physics",
+      "version": "1.4.5",
+      "description": "Sonidos con fisicas reales",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered",
+      "url": "https://mediafilez.forgecdn.net/files/5525/256/sound-physics-remastered-forge-1.20.1-1.4.5.jar",
+      "tags": [],
+      "client": false,
+      "server": false
+    },
+    {
+      "name": "Falling Leaves",
+      "version": "2.1.0",
+      "description": "Hojas que caen de los arboles",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge",
+      "url": "https://mediafilez.forgecdn.net/files/4695/661/Fallingleaves-1.20.1-2.1.0.jar",
+      "tags": ["visual"],
+      "client": false,
+      "server": false
+    },
+    {
+      "name": "Macaw's Furniture",
+      "version": "3.3.0",
+      "description": "Muebles",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/macaws-furniture",
+      "url": "https://mediafilez.forgecdn.net/files/5589/873/mcw-furniture-3.3.0-mc1.20.1forge.jar",
+      "tags": ["decoraciones"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Naturalist",
+      "version": "4.0.3",
+      "description": "Animales",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/naturalist",
+      "url": "https://mediafilez.forgecdn.net/files/4847/9/naturalist-forge-4.0.3-1.20.1.jar",
+      "tags": ["mobs"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "What Are They Up To",
+      "version": "1.1.1",
+      "description": "Permite ver que hacen los demas jugadores",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to",
+      "url": "https://mediafilez.forgecdn.net/files/5267/703/watut-forge-1.20.1-1.1.1.jar",
+      "tags": ["visual"],
+      "client": false,
+      "server": true
+    },
+    {
+      "name": "Dungeon Crawl",
+      "version": "2.3.14",
+      "description": "Dungeons entretenidas hacia abajo",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl",
+      "url": "https://mediafilez.forgecdn.net/files/4612/224/Dungeon Crawl-1.20.1-2.3.14.jar",
+      "tags": ["dungeons"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Sky Villages",
+      "version": "1.0.4",
+      "description": "Aldeas en el cielo",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/sky-villages-forge",
+      "url": "https://mediafilez.forgecdn.net/files/5401/804/SkyVillages-1.0.4-1.19.2-1.20.1-forge-release.jar",
+      "tags": ["aldeas", "worldgen"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Simple Hats",
+      "version": "0.3.1",
+      "description": "Somberos simples!",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/simplehats",
+      "url": "https://mediafilez.forgecdn.net/files/5556/215/simplehats-forge-1.20.1-0.3.1.jar",
+      "tags": ["misc"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Handcrafted",
+      "version": "3.0.6",
+      "description": "Muebles bonitos",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/handcrafted",
+      "url": "https://mediafilez.forgecdn.net/files/5118/729/handcrafted-forge-1.20.1-3.0.6.jar",
+      "tags": ["decoraciones"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "MrCrayfish's Furniture Mod",
+      "version": "7.0.0-pre36",
+      "description": "Muebles bonitos MrCrayfish",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod",
+      "url": "https://mediafilez.forgecdn.net/files/4602/980/cfm-forge-1.20.1-7.0.0-pre36.jar",
+      "tags": ["decoraciones"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Indendium",
+      "version": "5.3.1",
+      "description": "Modifica el nether",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/incendium",
+      "url": "https://mediafilez.forgecdn.net/files/4655/668/Incendium_1.20.1_v5.3.1.jar",
+      "tags": ["dimensiones", "worldgen"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Nullscape",
+      "version": "1.2.7",
+      "description": "Modifica el end",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/nullscape",
+      "url": "https://mediafilez.forgecdn.net/files/5512/52/Nullscape_1.20.x_v1.2.7.jar",
+      "tags": ["dimensiones", "worldgen"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Security Craft",
+      "version": "1.9.10",
+      "description": "Es papear o ser papeado - Diego Elgueta",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/security-craft",
+      "url": "https://mediafilez.forgecdn.net/files/5424/863/[1.20.1] SecurityCraft v1.9.10.jar",
+      "tags": ["trash"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Simply Swords",
+      "version": "1.55.0",
+      "description": "Nuevas armas",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/simply-swords",
+      "url": "https://mediafilez.forgecdn.net/files/5255/968/simplyswords-forge-1.55.0-1.20.1.jar",
+      "tags": ["armas", "combate"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Knave's Needs",
+      "version": "2.0",
+      "description": "Simply Swords Addon - Compatibilidad con varios mods de dimensiones y minerales",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/knaves-needs",
+      "url": "https://mediafilez.forgecdn.net/files/4798/238/knavesneeds-forge-2.0+1.20.1.jar",
+      "tags": ["armas", "combate"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "The Undergarden",
+      "version": "0.8.14",
+      "description": "Dimension desconocida",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/the-undergarden",
+      "url": "https://mediafilez.forgecdn.net/files/5182/632/The_Undergarden-1.20.1-0.8.14.jar",
+      "tags": ["dimensiones"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Epic Samurai's",
+      "version": "0.0.46",
+      "description": "Armas y armaduras inspiradas en los samurai",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/epic-samurais",
+      "url": "https://mediafilez.forgecdn.net/files/5493/853/epicsamurai-0.0.46-1.20.1-neo.jar",
+      "tags": ["armas", "combate"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Falling Tree",
+      "version": "4.3.4",
+      "description": "Talar arboles enteros de un golpe",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/falling-tree",
+      "url": "https://mediafilez.forgecdn.net/files/5010/620/FallingTree-1.20.1-4.3.4.jar",
+      "tags": ["qol"],
+      "client": false,
+      "server": true
+    },
+    {
+      "name": "Mouse Tweaks",
+      "version": "2.14",
+      "description": "Mejoras al mouse",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
+      "url": "https://mediafilez.forgecdn.net/files/5338/457/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "tags": ["qol"],
+      "client": true,
+      "server": false
+    },
+    {
+      "name": "Epic Fight Mod",
+      "version": "20.8.8",
+      "description": "Combate mas interesante",
+      "fileID": "5615812",
+      "projectID": "405076",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/epic-fight-mod",
+      "url": "https://mediafilez.forgecdn.net/files/5615/812/epicfight-forge-20.8.8-1.20.1.jar",
+      "tags": ["combat"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Epic Fight Mod & Other Mods Weapons Compabilities",
+      "version": "20.2.0",
+      "description": "Compatibilidad con otros mods de armas",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/efmcompat",
+      "url": "https://mediafilez.forgecdn.net/files/5214/748/EFMCompat 2.0.jar",
+      "tags": ["combat"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Weapons of Miracles",
+      "version": "20.1.8.5.1",
+      "description": "Armas de milagros",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/weapons-of-miracles-epicfight",
+      "url": "https://mediafilez.forgecdn.net/files/5598/482/WeaponsOfMiracles-20.1.8.5.1.jar",
+      "tags": ["combat"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Epic Fight - Battle Arts",
+      "version": "20.8.5.6",
+      "description": "Artes de combate",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ef-bs",
+      "url": "https://mediafilez.forgecdn.net/files/5596/596/EpicFightBA-20.8.5.6.jar",
+      "tags": ["combat"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Rotten Flesh to Leather",
+      "version": "20.6.1",
+      "description": "Convierte carne podrida en cuero",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/just-another-rotten-flesh-to-leather-mod",
+      "url": "https://mediafilez.forgecdn.net/files/4594/475/JRFTL-1.20.1-1.6.0.jar",
+      "tags": ["qol"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "EFMEX",
+      "version": "20.6.1",
+      "description": "Epic Fight Mod Extension",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/epic-fight-ex-capabilites",
+      "url": "https://mediafilez.forgecdn.net/files/5594/746/EpicFightExCap-20.8.1.jar",
+      "tags": ["combat"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Macaw's Doors",
+      "projectID": "378646",
+      "fileID": "5439224",
+      "version": "1.1.1",
+      "description": "Puertas bonitas",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/macaws-doors",
+      "url": "https://mediafilez.forgecdn.net/files/5439/224/mcw-doors-1.1.1forge-mc1.20.1.jar",
+      "tags": ["decoraciones"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Macaw's Fences and Walls",
+      "projectID": "453925",
+      "fileID": "5442217",
+      "version": "1.1.2",
+      "description": "Murallas bonitas",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls",
+      "url": "https://mediafilez.forgecdn.net/files/5442/217/mcw-fences-1.1.2-mc1.20.1forge.jar",
+      "tags": ["decoraciones"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Decorative Blocks",
+      "projectID": "362528",
+      "fileID": "5089406",
+      "version": "4.1.3",
+      "description": "Bloques bonitos",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/decorative-blocks",
+      "url": "https://mediafilez.forgecdn.net/files/5089/406/decorative_blocks-forge-1.20.1-4.1.3.jar",
+      "tags": ["decoraciones"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Pick Up Norifier",
+      "projectID": "351441",
+      "fileID": "4613538",
+      "version": "8.0.0",
+      "description": "Notificaciones de los bloques recogidos",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier",
+      "url": "https://mediafilez.forgecdn.net/files/4613/538/PickUpNotifier-v8.0.0-1.20.1-Forge.jar",
+      "tags": ["hud"],
+      "client": false,
+      "server": false
+    },
+    {
+      "name": "Trash slot",
+      "projectID": "235577",
+      "fileID": "4753168",
+      "version": "15.1.0",
+      "description": "Slot en el inventario para eliminar items",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/trashslot",
+      "url": "https://mediafilez.forgecdn.net/files/4753/168/trashslot-forge-1.20-15.1.0.jar",
+      "tags": ["qol"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Alex's Mobs",
+      "projectID": "426558",
+      "fileID": "5160697",
+      "version": "1.22.8",
+      "description": "Mobs bonitos",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs",
+      "url": "https://mediafilez.forgecdn.net/files/5160/697/alexsmobs-1.22.8.jar",
+      "tags": ["mobs"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Create Stuff & Additions",
+      "projectID": "466792",
+      "fileID": "4703287",
+      "version": "2.0.4a",
+      "description": "Create Addon - Cosas",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions",
+      "url": "https://mediafilez.forgecdn.net/files/4703/287/create-stuff-additions1.20.1_v2.0.4a.jar",
+      "tags": ["create"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Create Additional Recipes",
+      "projectID": "953547",
+      "fileID": "4990054",
+      "version": "1.2.0",
+      "description": "Create Addon - Recetas",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-additional-recipes",
+      "url": "https://mediafilez.forgecdn.net/files/4990/54/create_recipes-1.2.0.jar",
+      "tags": ["create"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "The Aether",
+      "projectID": "255308",
+      "fileID": "5302178",
+      "version": "1.4.2",
+      "description": "Dimension del cielo",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/aether",
+      "url": "https://mediafilez.forgecdn.net/files/5302/178/aether-1.20.1-1.4.2-neoforge.jar",
+      "tags": ["dimensiones"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Create Bells and Whistles",
+      "projectID": "905040",
+      "fileID": "4860141",
+      "version": "0.4.3",
+      "description": "Create Addon - Campanitas y silbatos",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles",
+      "url": "https://mediafilez.forgecdn.net/files/4860/141/bellsandwhistles-0.4.3-1.20.x.jar",
+      "tags": ["create"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Chipped",
+      "projectID": "456956",
+      "fileID": "5270039",
+      "version": "3.0.6",
+      "description": "Bloques modificados",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/chipped",
+      "url": "https://mediafilez.forgecdn.net/files/5270/39/Chipped-forge-1.20.1-3.0.6.jar",
+      "tags": ["decoraciones"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Passive Skill Tree",
+      "projectID": "850298",
+      "fileID": "5367713",
+      "version": "0.6.13a",
+      "description": "Arbol de habilidades",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/passive-skill-tree",
+      "url": "https://mediafilez.forgecdn.net/files/5367/713/PassiveSkillTree-1.20.1-BETA-0.6.13a-all.jar",
+      "tags": ["rpg"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Create Protection Pixel",
+      "projectID": "1023409",
+      "fileID": "5612779",
+      "version": "1.0.4",
+      "description": "Create Addon - Armaduras",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/protection-pixel",
+      "url": "https://mediafilez.forgecdn.net/files/5612/779/protection_pixel-1.0.4-forge-1.20.1.jar",
+      "tags": ["create"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Brutal Bosses",
+      "projectID": "5566153",
+      "fileID": "5612779",
+      "version": "7.1",
+      "description": "Jefes",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/brutal-bosses-dungeon",
+      "url": "https://mediafilez.forgecdn.net/files/5566/153/brutalbosses-1.20.1-7.1.jar",
+      "tags": ["rpg"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Mowzie's Mobs",
+      "projectID": "250498",
+      "fileID": "5399941",
+      "version": "1.6.5",
+      "description": "Jefes",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs",
+      "url": "https://mediafilez.forgecdn.net/files/5399/941/mowziesmobs-1.6.5.jar",
+      "tags": ["rpg"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Create Deco",
+      "projectID": "509285",
+      "fileID": "5293982",
+      "version": "2.0.2",
+      "description": "Create Addon - Decoraciones",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-deco",
+      "url": "https://mediafilez.forgecdn.net/files/5293/982/createdeco-2.0.2-1.20.1-forge.jar",
+      "tags": ["create"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "Structurize",
+      "projectID": "298744",
+      "fileID": "5510044",
+      "version": "1.0.742",
+      "description": "Copypastear estructuras",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/structurize",
+      "url": "https://mediafilez.forgecdn.net/files/5510/44/structurize-1.20.1-1.0.742-RELEASE.jar",
+      "tags": ["qol"],
+      "client": true,
+      "server": true
+    },
+    {
+      "name": "XP Tome",
+      "projectID": "344787",
+      "fileID": "5465675",
+      "version": "2.2.1",
+      "description": "Libros de experiencia",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/xp-tome",
+      "url": "https://mediafilez.forgecdn.net/files/5465/675/xptome-1.20.1-2.2.1.jar",
+      "tags": ["qol"],
+      "client": true,
+      "server": true
+    }
+  ],
+
+  "libraries": [
+    {
+      "name": "Bookshelf",
+      "version": "20.2.13",
+      "url": "https://mediafilez.forgecdn.net/files/5423/987/Bookshelf-Forge-1.20.1-20.2.13.jar"
+    },
+    {
+      "name": "YUNG's API",
+      "version": "4.0.5",
+      "url": "https://mediafilez.forgecdn.net/files/5331/703/YungsApi-1.20-Forge-4.0.5.jar"
+    },
+    {
+      "name": "Sophisticated Core",
+      "version": "0.6.22.611",
+      "url": "https://mediafilez.forgecdn.net/files/5326/245/sophisticatedcore-1.20.1-0.6.22.611.jar"
+    },
+    {
+      "name": "Creative Core",
+      "version": "2.11.33",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/creativecore",
+      "url": "https://mediafilez.forgecdn.net/files/5568/293/CreativeCore_FORGE_v2.11.33_mc1.20.1.jar"
+    },
+    {
+      "name": "Cloth Config",
+      "version": "11.1.118",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
+      "url": "https://mediafilez.forgecdn.net/files/4973/441/cloth-config-11.1.118-forge.jar"
+    },
+    {
+      "name": "Balm",
+      "version": "7.3.6",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/balm",
+      "url": "https://mediafilez.forgecdn.net/files/5467/600/balm-forge-1.20.1-7.3.6-all.jar"
+    },
+    {
+      "name": "Curios API",
+      "version": "5.9.1",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/curios",
+      "url": "https://mediafilez.forgecdn.net/files/5367/944/curios-forge-5.9.1+1.20.1.jar"
+    },
+    {
+      "name": "Architectury API",
+      "version": "9.2.14",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/architectury-api/download/5137938",
+      "url": "https://mediafilez.forgecdn.net/files/5137/938/architectury-9.2.14-forge.jar"
+    },
+    {
+      "name": "GeckoLib",
+      "version": "4.4.7",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
+      "url": "https://mediafilez.forgecdn.net/files/5460/309/geckolib-forge-1.20.1-4.4.7.jar"
+    },
+    {
+      "name": "Resourceful Lib",
+      "version": "2.1.28",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/resourceful-lib",
+      "url": "https://mediafilez.forgecdn.net/files/5568/216/resourcefullib-forge-1.20.1-2.1.28.jar"
+    },
+    {
+      "name": "SuperMartijn642's Core Lib",
+      "version": "1.1.17",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib",
+      "url": "https://mediafilez.forgecdn.net/files/5102/258/supermartijn642corelib-1.1.17-forge-mc1.20.1.jar"
+    },
+    {
+      "name": "SuperMartijn642's Config Lib",
+      "version": "1.1.8",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib",
+      "url": "https://mediafilez.forgecdn.net/files/4715/408/supermartijn642configlib-1.1.8-forge-mc1.20.jar"
+    },
+    {
+      "name": "Zeta",
+      "version": "1.0-19",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/zeta",
+      "url": "https://mediafilez.forgecdn.net/files/5418/213/Zeta-1.0-19.jar"
+    },
+    {
+      "name": "Framework",
+      "version": "0.7.6",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/framework",
+      "url": "https://mediafilez.forgecdn.net/files/5388/226/framework-forge-1.20.1-0.7.6.jar"
+    },
+    {
+      "name": "Cristel Lib",
+      "version": "1.1.5",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/cristel-lib",
+      "url": "https://mediafilez.forgecdn.net/files/4861/833/cristellib-1.1.5-forge.jar"
+    },
+    {
+      "name": "Collective",
+      "version": "7.80",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/collective",
+      "url": "https://mediafilez.forgecdn.net/files/5575/74/collective-1.20.1-7.80.jar"
+    },
+    {
+      "name": "Structure Gel API",
+      "version": "2.16.2",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/structure-gel-api",
+      "url": "https://mediafilez.forgecdn.net/files/5278/429/structure_gel-1.20.1-2.16.2.jar"
+    },
+    {
+      "name": "Moonlight",
+      "version": "2.12.9",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/selene",
+      "url": "https://mediafilez.forgecdn.net/files/5556/628/moonlight-1.20-2.12.9-forge.jar"
+    },
+    {
+      "name": "Coroutil",
+      "version": "1.3.7",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/coroutil",
+      "url": "https://mediafilez.forgecdn.net/files/5096/38/coroutil-forge-1.20.1-1.3.7.jar"
+    },
+    {
+      "name": "Cupboard",
+      "version": "2.7",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
+      "url": "https://mediafilez.forgecdn.net/files/5470/32/cupboard-1.20.1-2.7.jar"
+    },
+    {
+      "name": "AzureLib",
+      "version": "2.0.30",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/azurelib",
+      "url": "https://mediafilez.forgecdn.net/files/5546/654/azurelib-neo-1.20.1-2.0.30.jar"
+    },
+    {
+      "name": "Player Animation Lib",
+      "version": "1.0.2",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/playeranimator",
+      "url": "https://mediafilez.forgecdn.net/files/4587/214/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
+    },
+    {
+      "name": "Botarium",
+      "version": "2.3.4",
+      "projectID": "704113",
+      "fileID": "5486070",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/botarium",
+      "url": "https://mediafilez.forgecdn.net/files/5486/70/botarium-forge-1.20.1-2.3.4.jar"
+    },
+    {
+      "name": "Citadel",
+      "version": "2.5.6",
+      "projectID": "331936",
+      "fileID": "5559513",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/citadel",
+      "url": "https://mediafilez.forgecdn.net/files/5559/513/citadel-2.5.6-1.20.1.jar"
+    },
+    {
+      "name": "Athena",
+      "version": "3.1.2",
+      "projectID": "841890",
+      "fileID": "5176879",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/athena",
+      "url": "https://mediafilez.forgecdn.net/files/5176/879/athena-forge-1.20.1-3.1.2.jar"
+    },
+    {
+      "name": "Puzzles Lib",
+      "version": "8.1.21",
+      "projectID": "495476",
+      "fileID": "5475403",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/puzzles-lib",
+      "url": "https://mediafilez.forgecdn.net/files/5475/403/PuzzlesLib-v8.1.21-1.20.1-Forge.jar"
+    },
+    {
+      "name": "Resourceful Config",
+      "version": "2.1.2",
+      "projectID": "714059",
+      "fileID": "5020441",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/resourceful-config",
+      "url": "https://mediafilez.forgecdn.net/files/5020/441/resourcefulconfig-forge-1.20.1-2.1.2.jar"
+    },
+    {
+      "name": "Item Production Lib",
+      "version": "1.0.2a",
+      "projectID": "950401",
+      "fileID": "5114036",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/item-production-lib",
+      "url": "https://mediafilez.forgecdn.net/files/5114/36/ItemProductionLib-1.20.1-1.0.2a-all.jar"
+    },
+    {
+      "name": "Domum Ornamentum",
+      "version": "1.0.186",
+      "projectID": "527361",
+      "fileID": "5281660",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum",
+      "url": "https://mediafilez.forgecdn.net/files/5281/660/domum_ornamentum-1.20.1-1.0.186-RELEASE-universal.jar"
+    },
+    {
+      "name": "Block UI",
+      "version": "1.0.156",
+      "projectID": "522992",
+      "fileID": "5280792",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/blockui",
+      "url": "https://mediafilez.forgecdn.net/files/5280/792/blockui-1.20.1-1.0.156-RELEASE.jar"
+    }
+  ],
+
+  "tools": [
+    {
+      "name": "forge",
+      "version": "47.3.0",
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-installer.jar"
+    },
+    {
+      "name": "iris",
+      "version": "3.2.1",
+      "url": "https://github.com/IrisShaders/Iris-Installer/releases/download/3.2.1/Iris-Installer-3.2.1.jar"
+    }
+  ],
+
+  "additionals": [
+    {
+      "name": "Fancy",
+      "type": "Resource Pack",
+      "curseforge": "https://www.curseforge.com/minecraft/texture-packs/fancy-gui-overhaul",
+      "url": "https://mediafilez.forgecdn.net/files/4628/818/Fancy%2C%20GUI%20Overhaul%20v0.1.2.8%20%28Dark%29.zip"
+    },
+    {
+      "name": "EFM Resoursepack",
+      "type": "Resource Pack",
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/efmcompat",
+      "url": "https://mediafilez.forgecdn.net/files/5214/751/EFMCompat Textures.zip"
+    }
+  ]
+}

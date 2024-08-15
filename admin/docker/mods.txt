@@ -83,10 +83,8 @@ https://mediafilez.forgecdn.net/files/5439/224/mcw-doors-1.1.1forge-mc1.20.1.jar
 https://mediafilez.forgecdn.net/files/5442/217/mcw-fences-1.1.2-mc1.20.1forge.jar
 https://mediafilez.forgecdn.net/files/5089/406/decorative_blocks-forge-1.20.1-4.1.3.jar
 https://mediafilez.forgecdn.net/files/4753/168/trashslot-forge-1.20-15.1.0.jar
-https://mediafilez.forgecdn.net/files/5160/697/alexsmobs-1.22.8.jar
 https://mediafilez.forgecdn.net/files/4703/287/create-stuff-additions1.20.1_v2.0.4a.jar
 https://mediafilez.forgecdn.net/files/4990/54/create_recipes-1.2.0.jar
-https://mediafilez.forgecdn.net/files/5302/178/aether-1.20.1-1.4.2-neoforge.jar
 https://mediafilez.forgecdn.net/files/4860/141/bellsandwhistles-0.4.3-1.20.x.jar
 https://mediafilez.forgecdn.net/files/5270/39/Chipped-forge-1.20.1-3.0.6.jar
 https://mediafilez.forgecdn.net/files/5367/713/PassiveSkillTree-1.20.1-BETA-0.6.13a-all.jar

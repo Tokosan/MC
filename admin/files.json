@@ -993,18 +993,6 @@
       "server": true
     },
     {
-      "name": "Alex's Mobs",
-      "projectID": "426558",
-      "fileID": "5160697",
-      "version": "1.22.8",
-      "description": "Mobs bonitos",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs",
-      "url": "https://mediafilez.forgecdn.net/files/5160/697/alexsmobs-1.22.8.jar",
-      "tags": ["mobs"],
-      "client": true,
-      "server": true
-    },
-    {
       "name": "Create Stuff & Additions",
       "projectID": "466792",
       "fileID": "4703287",
@@ -1025,18 +1013,6 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-additional-recipes",
       "url": "https://mediafilez.forgecdn.net/files/4990/54/create_recipes-1.2.0.jar",
       "tags": ["create"],
-      "client": true,
-      "server": true
-    },
-    {
-      "name": "The Aether",
-      "projectID": "255308",
-      "fileID": "5302178",
-      "version": "1.4.2",
-      "description": "Dimension del cielo",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/aether",
-      "url": "https://mediafilez.forgecdn.net/files/5302/178/aether-1.20.1-1.4.2-neoforge.jar",
-      "tags": ["dimensiones"],
       "client": true,
       "server": true
     },
