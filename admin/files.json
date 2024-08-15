@@ -611,16 +611,6 @@
       "server": true
     },
     {
-      "name": "MmmMmmMmmMmm",
-      "version": "1.8.17b",
-      "description": "Munecos de practica",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm",
-      "url": "https://mediafilez.forgecdn.net/files/5319/203/dummmmmmy-1.20-1.8.17b.jar",
-      "tags": ["misc"],
-      "client": true,
-      "server": true
-    },
-    {
       "name": "Aquaculture 2",
       "version": "2.5.2",
       "description": "Expande la pesca",
@@ -629,36 +619,6 @@
       "tags": ["cocina", "inmersion"],
       "client": true,
       "server": true
-    },
-    {
-      "name": "Not Enough Animations",
-      "version": "1.7.4",
-      "description": "Animaciones en tercera persona",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/not-enough-animations",
-      "url": "https://mediafilez.forgecdn.net/files/5429/265/notenoughanimations-forge-1.7.4-mc1.20.1.jar",
-      "tags": ["visual"],
-      "client": false,
-      "server": false
-    },
-    {
-      "name": "First Person Model",
-      "version": "2.4.4",
-      "description": "Primera persona mas inmersiva",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/first-person-model",
-      "url": "https://mediafilez.forgecdn.net/files/5577/732/firstperson-forge-2.4.4-mc1.20.1.jar",
-      "tags": ["inmersion", "visual"],
-      "client": false,
-      "server": false
-    },
-    {
-      "name": "Skin Layers 3D",
-      "version": "1.6.6",
-      "description": "Le da profundidad a los modelos de personaje",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d",
-      "url": "https://mediafilez.forgecdn.net/files/5429/204/skinlayers3d-forge-1.6.6-mc1.20.1.jar",
-      "tags": ["visual"],
-      "client": false,
-      "server": false
     },
     {
       "name": "Cosmetic Armor Reworked",
@@ -707,16 +667,6 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/macaws-furniture",
       "url": "https://mediafilez.forgecdn.net/files/5589/873/mcw-furniture-3.3.0-mc1.20.1forge.jar",
       "tags": ["decoraciones"],
-      "client": true,
-      "server": true
-    },
-    {
-      "name": "Naturalist",
-      "version": "4.0.3",
-      "description": "Animales",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/naturalist",
-      "url": "https://mediafilez.forgecdn.net/files/4847/9/naturalist-forge-4.0.3-1.20.1.jar",
-      "tags": ["mobs"],
       "client": true,
       "server": true
     },
@@ -1037,18 +987,6 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/chipped",
       "url": "https://mediafilez.forgecdn.net/files/5270/39/Chipped-forge-1.20.1-3.0.6.jar",
       "tags": ["decoraciones"],
-      "client": true,
-      "server": true
-    },
-    {
-      "name": "Passive Skill Tree",
-      "projectID": "850298",
-      "fileID": "5367713",
-      "version": "0.6.13a",
-      "description": "Arbol de habilidades",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/passive-skill-tree",
-      "url": "https://mediafilez.forgecdn.net/files/5367/713/PassiveSkillTree-1.20.1-BETA-0.6.13a-all.jar",
-      "tags": ["rpg"],
       "client": true,
       "server": true
     },
