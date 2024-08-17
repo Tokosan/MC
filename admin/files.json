@@ -671,16 +671,6 @@
       "server": true
     },
     {
-      "name": "What Are They Up To",
-      "version": "1.1.1",
-      "description": "Permite ver que hacen los demas jugadores",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to",
-      "url": "https://mediafilez.forgecdn.net/files/5267/703/watut-forge-1.20.1-1.1.1.jar",
-      "tags": ["visual"],
-      "client": false,
-      "server": true
-    },
-    {
       "name": "Dungeon Crawl",
       "version": "2.3.14",
       "description": "Dungeons entretenidas hacia abajo",
@@ -751,16 +741,6 @@
       "server": true
     },
     {
-      "name": "Security Craft",
-      "version": "1.9.10",
-      "description": "Es papear o ser papeado - Diego Elgueta",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/security-craft",
-      "url": "https://mediafilez.forgecdn.net/files/5424/863/[1.20.1] SecurityCraft v1.9.10.jar",
-      "tags": ["trash"],
-      "client": true,
-      "server": true
-    },
-    {
       "name": "Simply Swords",
       "version": "1.55.0",
       "description": "Nuevas armas",
@@ -822,12 +802,12 @@
     },
     {
       "name": "Epic Fight Mod",
-      "version": "20.8.8",
+      "version": "20.8.9",
       "description": "Combate mas interesante",
-      "fileID": "5615812",
+      "fileID": "5618905",
       "projectID": "405076",
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/epic-fight-mod",
-      "url": "https://mediafilez.forgecdn.net/files/5615/812/epicfight-forge-20.8.8-1.20.1.jar",
+      "url": "https://mediafilez.forgecdn.net/files/5618/905/epicfight-forge-20.8.9-1.20.1.jar",
       "tags": ["combat"],
       "client": true,
       "server": true
