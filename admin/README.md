@@ -27,24 +27,25 @@ Lo que obtuve es una manera de "portar" el servidor con un docker-file simple y 
 
 ### Archivos
 
-El archivo `/admin/docker/docker-compose.yml` es el docker file que permite levantar el servidor. Para que funcione, en el archivo `/admin/docker/.env` debe estar seteada
+El archivo `/admin/files.json` contiene todos los mods y librerías necesarias para este servidor particular. Este archivo fue hecho a mano y está ligeramente desordenado, pero me gusta porque le pude meter harta información y me permite hacer muchas cosas jeje
+
+El archivo `/admin/docker/docker-compose.yml` es el docker file que permite levantar el servidor. Para que funcione, en el archivo `/admin/docker/.env` debe estar seteada la variable DATA_PATH a un directorio (tiene que ser la ruta absoluta) donde se desea guardar la data del mundo.
+
+El archivo `/admin/server_mods_generator.py` utiliza el archivo `files.json` para generar el archivo `mods.txt` que contiene los enlaces de descarga de todos los mods que requiere el servidor. Luego de generarlo hay que moverlo a `/admin/docker`, y el servidor descargará los mods si es que es necesario (si ya están descargados no lo hace).
 
 ### Comandos utiles
 
+Iniciar el servidor:
 ```bash
 docker compose up -d
 ```
 
-Sirve para inicializar el servidor
-
+Cerrar el servidor:
 ```bash
 docker compose down
 ```
 
-Cierra el servidor
-
+Acceder a la consola de Minecraft (por ejemplo para usar comandos como give, kill, gamemode, etc.)
 ```bash
 docker exec -i mc rcon-cli
 ```
-
-Debería permitir entrar a la consola del servidor (usar comandos por ejemplo)
