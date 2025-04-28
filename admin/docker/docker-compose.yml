@@ -1,5 +1,5 @@
 services:
-  mc:
+  minecraft:
     image: itzg/minecraft-server
     tty: true
     stdin_open: true
@@ -9,12 +9,15 @@ services:
       EULA: "TRUE"
       MEMORY: "8G"
       TYPE: "FORGE"
+      OPS: "TokosanD"
+      ENABLE_WHITELIST: "TRUE"
+      ENFORCED_WHITELIST: "TRUE"
       VERSION: "1.20.1"
-      FORGE_VERSION: "47.3.0"
-      MODS_FILE: /extras/mods.txt
+      FORGE_VERSION: "47.4.0"
+      MODS_FILE: /extras/mod-list.txt
       REMOVE_OLD_MODS: "true"
     volumes:
       # attach the relative directory 'data' to the container's /data path
       - ${DATA_PATH}:/data
-      - ./mods.txt:/extras/mods.txt:ro
+      - ./mod-list.txt:/extras/mod-list.txt:ro
     restart: on-failure:3
