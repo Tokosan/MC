@@ -18,14 +18,15 @@ with open(FILE) as f:
         if mod["client"]:
             wget.download(url, out=PATH_CLIENT)
         else:
+            continue
             wget.download(url, out=PATH_EXTRAS)
 
-    for lib in data["libraries"]:
-        url = lib["url"]
-        # descargamos las librerias
-        wget.download(url, out=PATH_LIBS)
+    # for lib in data["libraries"]:
+    #     url = lib["url"]
+    #     # descargamos las librerias
+    #     wget.download(url, out=PATH_LIBS)
 
-    for tool in data["tools"]:
-        url = tool["url"]
-        # descargamos las librerias
-        wget.download(url, out=PATH_TOOLS)
+    # for tool in data["tools"]:
+    #     url = tool["url"]
+    #     # descargamos las librerias
+    #     wget.download(url, out=PATH_TOOLS)

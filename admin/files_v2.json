@@ -81,16 +81,6 @@
       "server": false
     },
     {
-      "name": "Farmer's Delight",
-      "version": "1.2.4",
-      "description": "Anade cositas lindas de agricultura",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/farmers-delight",
-      "url": "https://mediafilez.forgecdn.net/files/5051/242/FarmersDelight-1.20.1-1.2.4.jar",
-      "tags": ["cocina", "decoraciones"],
-      "client": true,
-      "server": true
-    },
-    {
       "name": "Patchouli",
       "version": "84",
       "description": "Libros para los mods",
@@ -231,16 +221,6 @@
       "server": true
     },
     {
-      "name": "Ribbits",
-      "version": "3.0.0",
-      "description": "Ribbits",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ribbits",
-      "url": "https://mediafilez.forgecdn.net/files/5425/415/Ribbits-1.20.1-Forge-3.0.0.jar",
-      "tags": ["qol"],
-      "client": true,
-      "server": true
-    },
-    {
       "name": "YUNG's Bridges",
       "version": "4.0.3",
       "description": "Puentes bonitos por el mundo",
@@ -331,26 +311,6 @@
       "server": true
     },
     {
-      "name": "Guard Villagers",
-      "version": "1.6.6",
-      "description": "Aldeanos guardia para las aldeas",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/guard-villagers",
-      "url": "https://mediafilez.forgecdn.net/files/5425/458/guardvillagers-1.20.1-1.6.6.jar",
-      "tags": ["aldeas"],
-      "client": true,
-      "server": true
-    },
-    {
-      "name": "Villager Names",
-      "version": "8.1",
-      "description": "Nombres para los aldeanos",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/villager-names",
-      "url": "https://mediafilez.forgecdn.net/files/5571/624/villagernames-1.20.1-8.1.jar",
-      "tags": ["aldeas"],
-      "client": true,
-      "server": true
-    },
-    {
       "name": "Inventory HUD+",
       "version": "3.4.24",
       "description": "Interfaz para tener el inventario siempre visible",
@@ -401,16 +361,6 @@
       "server": true
     },
     {
-      "name": "Chat Heads",
-      "version": "0.12.9",
-      "description": "Cabezas en el chat",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/chat-heads",
-      "url": "https://mediafilez.forgecdn.net/files/5577/373/chat_heads-0.12.9-forge-1.20.jar",
-      "tags": ["hud"],
-      "client": true,
-      "server": true
-    },
-    {
       "name": "Macaw's Bridges",
       "version": "3.0.0",
       "description": "Bloques para hacer puentes",
@@ -437,16 +387,6 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/corpse",
       "url": "https://mediafilez.forgecdn.net/files/5157/34/corpse-forge-1.20.1-1.0.12.jar",
       "tags": ["qol"],
-      "client": true,
-      "server": true
-    },
-    {
-      "name": "Aquaculture 2",
-      "version": "2.5.2",
-      "description": "Expande la pesca",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/aquaculture",
-      "url": "https://mediafilez.forgecdn.net/files/5585/290/Aquaculture-1.20.1-2.5.2.jar",
-      "tags": ["cocina", "inmersion"],
       "client": true,
       "server": true
     },
@@ -481,16 +421,6 @@
       "server": false
     },
     {
-      "name": "Macaw's Furniture",
-      "version": "3.3.0",
-      "description": "Muebles",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/macaws-furniture",
-      "url": "https://mediafilez.forgecdn.net/files/5589/873/mcw-furniture-3.3.0-mc1.20.1forge.jar",
-      "tags": ["decoraciones"],
-      "client": true,
-      "server": true
-    },
-    {
       "name": "Dungeon Crawl",
       "version": "2.3.14",
       "description": "Dungeons entretenidas hacia abajo",
@@ -507,16 +437,6 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/sky-villages-forge",
       "url": "https://mediafilez.forgecdn.net/files/5401/804/SkyVillages-1.0.4-1.19.2-1.20.1-forge-release.jar",
       "tags": ["aldeas", "worldgen"],
-      "client": true,
-      "server": true
-    },
-    {
-      "name": "Handcrafted",
-      "version": "3.0.6",
-      "description": "Muebles bonitos",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/handcrafted",
-      "url": "https://mediafilez.forgecdn.net/files/5118/729/handcrafted-forge-1.20.1-3.0.6.jar",
-      "tags": ["decoraciones"],
       "client": true,
       "server": true
     },
@@ -643,42 +563,6 @@
       "server": true
     },
     {
-      "name": "Macaw's Doors",
-      "projectID": "378646",
-      "fileID": "5439224",
-      "version": "1.1.1",
-      "description": "Puertas bonitas",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/macaws-doors",
-      "url": "https://mediafilez.forgecdn.net/files/5439/224/mcw-doors-1.1.1forge-mc1.20.1.jar",
-      "tags": ["decoraciones"],
-      "client": true,
-      "server": true
-    },
-    {
-      "name": "Macaw's Fences and Walls",
-      "projectID": "453925",
-      "fileID": "5442217",
-      "version": "1.1.2",
-      "description": "Murallas bonitas",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls",
-      "url": "https://mediafilez.forgecdn.net/files/5442/217/mcw-fences-1.1.2-mc1.20.1forge.jar",
-      "tags": ["decoraciones"],
-      "client": true,
-      "server": true
-    },
-    {
-      "name": "Decorative Blocks",
-      "projectID": "362528",
-      "fileID": "5089406",
-      "version": "4.1.3",
-      "description": "Bloques bonitos",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/decorative-blocks",
-      "url": "https://mediafilez.forgecdn.net/files/5089/406/decorative_blocks-forge-1.20.1-4.1.3.jar",
-      "tags": ["decoraciones"],
-      "client": true,
-      "server": true
-    },
-    {
       "name": "Pick Up Norifier",
       "projectID": "351441",
       "fileID": "4613538",
@@ -699,18 +583,6 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/trashslot",
       "url": "https://mediafilez.forgecdn.net/files/4753/168/trashslot-forge-1.20-15.1.0.jar",
       "tags": ["qol"],
-      "client": true,
-      "server": true
-    },
-    {
-      "name": "Chipped",
-      "projectID": "456956",
-      "fileID": "5270039",
-      "version": "3.0.6",
-      "description": "Bloques modificados",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/chipped",
-      "url": "https://mediafilez.forgecdn.net/files/5270/39/Chipped-forge-1.20.1-3.0.6.jar",
-      "tags": ["decoraciones"],
       "client": true,
       "server": true
     },
