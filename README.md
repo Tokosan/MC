@@ -34,7 +34,7 @@ A continuación se detalla el paso a paso para instalar un cliente que pueda con
    3. Seleccionar "Iris Only" en vez de "Iris + Fabric"
    4. Presionar el botón Install
 6. Instalar Forge 47.4.0
-   1. Descargar y ejecutar el instalador desde la [página oficial](https://files.minecraftforge.net/net/minecraftforge/forge/). Debe ser la versión 47.3.0. También se puede usar el [link directo](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-installer.jar)
+   1. Descargar y ejecutar el instalador desde la [página oficial](https://files.minecraftforge.net/net/minecraftforge/forge/). Debe ser la versión 47.4.0. También se puede usar el [link directo](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-installer.jar)
    2. Presionar "Ok"
 7. Descargar los mods
    1. Ir a la parte superior de esta página y apretar el botón verde "Code"
