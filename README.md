@@ -8,7 +8,7 @@ Este documento sera la biblia para poder hostear mi servidor de Minecraft. Sera 
 
 Version de Minecraft: 1.20.1
 
-Modloader: Forge 47.3.0
+Modloader: Forge 47.4.0
 
 Mods: ~60	
 
@@ -33,8 +33,8 @@ A continuación se detalla el paso a paso para instalar un cliente que pueda con
    2. Seleccionar la versión correcta (1.20.1)
    3. Seleccionar "Iris Only" en vez de "Iris + Fabric"
    4. Presionar el botón Install
-6. Instalar Forge
-   1. Descargar y ejecutar el instalador desde la [página oficial](https://files.minecraftforge.net/net/minecraftforge/forge/). Debe ser la versión 47.3.0. También se puede usar el [link directo](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-installer.jar)
+6. Instalar Forge 47.4.0
+   1. Descargar y ejecutar el instalador desde la [página oficial](https://files.minecraftforge.net/net/minecraftforge/forge/). Debe ser la versión 47.3.0. También se puede usar el [link directo](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-installer.jar)
    2. Presionar "Ok"
 7. Descargar los mods
    1. Ir a la parte superior de esta página y apretar el botón verde "Code"
@@ -70,17 +70,4 @@ Después de descargar y meter los mods, se pueden eliminar los siguientes mods q
 
 La IP del servidor es
 
-`minecraft.tokosan.cl`
-
-## Changelog
-
-### 2024-08-06
-
-1. Eliminar Better Combat
-2. Añadir lo siguiente:
-   1. [Epic Fight Mod](https://mediafilez.forgecdn.net/files/5601/221/epicfight-forge-20.8.5-1.20.1.jar)
-   2. [EFM Compat](https://mediafilez.forgecdn.net/files/5214/748/EFMCompat%202.0.jar)
-   3. [Weapons of Miracles](https://mediafilez.forgecdn.net/files/5598/482/WeaponsOfMiracles-20.1.8.5.1.jar)
-   4. [Battle Arts](https://mediafilez.forgecdn.net/files/5596/596/EpicFightBA-20.8.5.6.jar)
-   5. [JRFTL](https://mediafilez.forgecdn.net/files/4594/475/JRFTL-1.20.1-1.6.0.jar)
-   6. [EFMEX](https://mediafilez.forgecdn.net/files/5594/746/EpicFightExCap-20.8.1.jar)
+`IP_DEL_SERVIDOR`
