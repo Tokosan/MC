@@ -543,16 +543,6 @@
       "server": true
     },
     {
-      "name": "Epic Fight - Battle Arts",
-      "version": "20.8.5.6",
-      "description": "Artes de combate",
-      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ef-bs",
-      "url": "https://mediafilez.forgecdn.net/files/5596/596/EpicFightBA-20.8.5.6.jar",
-      "tags": ["combat"],
-      "client": true,
-      "server": true
-    },
-    {
       "name": "Rotten Flesh to Leather",
       "version": "20.6.1",
       "description": "Convierte carne podrida en cuero",
