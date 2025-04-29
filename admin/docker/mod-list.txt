@@ -39,7 +39,7 @@ https://mediafilez.forgecdn.net/files/5512/52/Nullscape_1.20.x_v1.2.7.jar
 https://mediafilez.forgecdn.net/files/5598/990/endrem_forge-5.3.3-R-1.20.1.jar
 https://mediafilez.forgecdn.net/files/5639/538/simplyswords-forge-1.56.0-1.20.1.jar
 https://mediafilez.forgecdn.net/files/5010/620/FallingTree-1.20.1-4.3.4.jar
-https://mediafilez.forgecdn.net/files/5618/905/epicfight-forge-20.8.9-1.20.1.jar
+https://mediafilez.forgecdn.net/files/5618/905/epicfight-forge-20.9.7-1.20.1.jar
 https://mediafilez.forgecdn.net/files/5214/748/EFMCompat%202.0.jar
 https://mediafilez.forgecdn.net/files/5598/482/WeaponsOfMiracles-20.1.8.5.1.jar
 https://mediafilez.forgecdn.net/files/5596/596/EpicFightBA-20.8.5.6.jar
