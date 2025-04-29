@@ -9,8 +9,6 @@ services:
       EULA: "TRUE"
       MEMORY: "8G"
       TYPE: "FORGE"
-      ENABLE_WHITELIST: "TRUE"
-      ENFORCED_WHITELIST: "TRUE"
       VERSION: "1.20.1"
       FORGE_VERSION: "47.4.0"
       MODS_FILE: /extras/mod-list.txt
