@@ -10,7 +10,7 @@ Version de Minecraft: 1.20.1
 
 Modloader: Forge 47.3.0
 
-Mods: ~100
+Mods: ~60	
 
 # Tutorial
 
@@ -41,6 +41,7 @@ A continuación se detalla el paso a paso para instalar un cliente que pueda con
    2. Apretar "Descargar ZIP"
    3. Descomprimir el zip descargado
    4. Copiar los mods en la carpeta `.minecraft/mods` (crearla si es que no está). Para acceder a esta carpeta hay que apretar WIN + R (mantener la tecla de Windows y apretar la R), y escribir `%appdata%` y apretar enter.
+   5. [Aclaración] Hay tres carpetas con mods. Los mods necesarios son los que están en `archivos > necesarios` y `archivos > librerías`. Los mods que están en `archivos > opcionales` son opcionales, y se puede ver más abajo qué es cada uno.
 
 Para iniciar el cliente hay que revisar que esté seleccionada la versión Forge 1.20.1 (no la instalación Vanilla que crearon)
 
