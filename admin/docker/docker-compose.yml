@@ -9,7 +9,6 @@ services:
       EULA: "TRUE"
       MEMORY: "8G"
       TYPE: "FORGE"
-      OPS: "TokosanD"
       ENABLE_WHITELIST: "TRUE"
       ENFORCED_WHITELIST: "TRUE"
       VERSION: "1.20.1"
