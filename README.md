@@ -45,7 +45,7 @@ A continuación se detalla el paso a paso para instalar un cliente que pueda con
 
 Para iniciar el cliente hay que revisar que esté seleccionada la versión Forge 1.20.1 (no la instalación Vanilla que crearon)
 
-Después de descargar y meter los mods, se pueden eliminar los siguientes mods que no son necesarios por parte de los clientes:
+Las descripciones de los mods opcionales son:
 
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin): Mejora visual para el HUD respecto a la comida
 - [JEI](https://www.curseforge.com/minecraft/mc-mods/jei): Muestra todos los items y sus recetas y usos
