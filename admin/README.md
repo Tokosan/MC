@@ -27,7 +27,7 @@ Lo que obtuve es una manera de "portar" el servidor con un docker-file simple y 
 
 ### Archivos
 
-El archivo `/admin/files.json` contiene todos los mods y librerías necesarias para este servidor particular. Este archivo fue hecho a mano y está ligeramente desordenado, pero me gusta porque le pude meter harta información y me permite hacer muchas cosas jeje
+El archivo `/admin/files_v2.json` contiene todos los mods y librerías necesarias para este servidor particular. Este archivo fue hecho a mano y está ligeramente desordenado, pero me gusta porque le pude meter harta información y me permite hacer muchas cosas jeje
 
 El archivo `/admin/docker/docker-compose.yml` es el docker file que permite levantar el servidor. Para que funcione, en el archivo `/admin/docker/.env` debe estar seteada la variable DATA_PATH a un directorio (tiene que ser la ruta absoluta) donde se desea guardar la data del mundo.
 
